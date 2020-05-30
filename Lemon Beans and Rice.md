@@ -4,7 +4,7 @@
 
 
 
-This is a dish a lot like ful madamus — inspired by, but definitely with my own spin on it. It's rich, a whole meal on its own. Part of the charm of the dish is the layers with alternating textures, flavors, and even temperatures. It will serve 2 as a hearty meal, 3 or even 4 as a light meal.
+This is a dish a lot like ful madamus — inspired by, but definitely with my own spin on it. It's rich, a whole meal on its own. Part of the charm of the dish is the layers with different textures, flavors, and even temperatures. It will serve 2 as a hearty meal, 3 or even 4 as a light meal.
 
 ## Sauce
 
@@ -16,13 +16,15 @@ This is a dish a lot like ful madamus — inspired by, but definitely with my ow
 
 10g herbs — I use parsley and oregano
 
-125ml of olive oil
+125ml of olive oil (possibly more!)
 
 salt
 
 
 
-The sauce is best made in advance — I think it's better cold than warm in this dish. It's my standard red sauce, able to be made in a hurry, but using some techniques for getting a rich tomato flavor in a hurry. Fry several cloves of sliced garlic and a small can of tomato paste in olive oil. A lot of olive oil — a 125ml or more. The goal is to make a paste that barely can hold together with all the oil by the end. Add parsley and oregano and salt. Keep frying the paste, stirring only enough to keep it from burning. The goal is to caramelize the tomato, so I scrape and flip it over in the oil. The oil eventually starts to combine with the paste, and the paste will be a deep brown-red color. Splash a bit of wine in the pan to deglaze, stir it in, and set the sauce aside. Chill it for this recipe.
+The sauce is best made in advance — I think it's better cold than warm in this dish. It's my standard red sauce, able to be made in a hurry, but using some techniques for getting a rich, fully-cooked tomato flavor quickly. 
+
+Fry several cloves of sliced garlic and a small can of tomato paste in olive oil. A lot of olive oil — a 125ml or more. The goal is to make a paste that barely can hold together with all the oil by the end. Add parsley and oregano and salt. Keep frying the paste, stirring only enough to keep it from burning. The goal is to caramelize the tomato, so I scrape and flip it over in the oil. The oil eventually starts to combine with the paste, and the paste will be a deep brown-red color.. Splash a bit of wine in the pan to deglaze, stir it in, and set the sauce aside. Chill it for this recipe.
 
 ## Rice
 

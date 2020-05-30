@@ -2,4 +2,9 @@
 plugins:
   - jemoji
 repository: aredridel/recipes
-layout: fictive
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: fictive

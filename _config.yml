@@ -1,15 +1,5 @@
 ---
 plugins:
   - jemoji
-repository: aredridel/Story
-defaults:
-  -
-    scope:
-      path: "mars-mission"
-    values:
-      serif_font: "Tinos"
-  -
-    scope:
-      path: "Untitled"
-    values:
-      layout: fictive
+repository: aredridel/recipes
+layout: fictive

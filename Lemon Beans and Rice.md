@@ -8,6 +8,8 @@ This is a dish a lot like ful madamus — inspired by, but definitely with my ow
 
 Without the cheese, it'd be a solid vegan meal. I think it adds a something that's not easily replaced, but it is far from required.
 
+Our household goes through several pounds of lemons each week, and dishes like this are part of why. There's so much flavor there, it seems silly to waste any of it.
+
 ## Sauce
 
 

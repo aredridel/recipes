@@ -2,9 +2,9 @@
 
 ## Mains
 
-[Lemon Beans and Rice](Lemon Beans and Rice.md)
+[Lemon Beans and Rice](Lemon Beans and Rice.md), a rich take on ful madamus
 
-[Sunburgers](Sunburgers.md)
+[Sunburgers](Sunburgers.md), a vegan burger made from oats and sunflower seeds
 
 ## Breads
 

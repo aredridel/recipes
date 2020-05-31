@@ -1,6 +1,6 @@
 # Red Lentil Dal with Coconut Milk
 
-40ml olive oil
+40ml olive oil, coconut oil or ghee
 
 1 medium onion, diced
 
@@ -10,7 +10,7 @@
 
 1 plum tomato, finely chopped
 
-50g coriander, finely chopped, stems and leaves
+50g coriander, finely chopped, stems and leaves separately
 
 15g yellow mustard seeds
 
@@ -30,13 +30,13 @@
 
 250ml coconut milk
 
-salt and pepper to taste
+salt to taste
 
 1 lemon, juiced
 
 
 
-Place a large pot over your smallest burner set to a medium heat. Add the olive oil (you can also use coconut oil or ghee) and the onions, ginger, chilli, tomato and coriander roots. Add a couple of pinches of salt. Cook, stirring occasionally, until the onions are sweet and golden, around 5 minutes.
+In a large pot over low heat, sauteé the onions, ginger, chilli, tomato and coriander stems. Cook 
 
 Add the curry leaves and mustard seeds. When the mustard seeds start to pop add the rest of the spices and garlic. Cook until fragrant. Add the lentils, stock and coconut milk and when it starts bubbling reduce the heat to low.
 

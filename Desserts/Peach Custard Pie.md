@@ -1,6 +1,9 @@
 Peach Custard Pie
 =================
 
+Crust
+-----
+
 150g flour
 
 10g sugar
@@ -9,17 +12,19 @@ Peach Custard Pie
 
 100g butter
 
+50ml cream
 
 
-Pat-in-the-pan butter crust; put in a glass pie pan and mix with a fork:
 
- - 1 1/4 cups flour
- - 1 tsp sugar
- - 1/2 tsp salt
- - 1 stick very soft butter
-When the butter is in smallish pieces, add:
- - 3 tbsp heavy cream
-squeeze it in handfuls briefly, then pat it around the edges of the pan, making a uniform layer.
+Preheat oven to 425 °F 
+
+Mix flour, sugar, salt and butter with a fork. When the butter is in small pieces, add the cream. Squeeze it in handfuls briefly, then press into a glass pie pan making a uniform layer.
+
+
+
+Bake 425
+
+
 
 Bake at 425F for 10-15min, until lightly browned.
 

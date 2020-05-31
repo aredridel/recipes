@@ -39,14 +39,14 @@ Filling
 
 4g salt
 
-29 oz
+800g peaches (canned are great)
 
 
-Open and drain
 
- - 29oz can of peaches
 
-Arrange the peaches in the crust, then scrape the goo over them (do not spread or smooth, just dump it in the middle).
+
+
+Arrange the peaches in the crust, then scrape the custard filling over them (do not spread or smooth, just dump it in the middle).
 Bake at 400F for 10min, then turn the oven down to 300 and bake for 50min longer, or until lightly browned.
 
 (thanks to cfox)

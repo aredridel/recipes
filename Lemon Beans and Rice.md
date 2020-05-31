@@ -20,7 +20,7 @@ Our household goes through several pounds of lemons each week, and dishes like t
 
 10g herbs — I use parsley and oregano
 
-125ml of olive oil (possibly more!)
+50ml of olive oil (possibly more!)
 
 splash of wine to deglaze, optional
 
@@ -30,7 +30,7 @@ salt
 
 The sauce is best made in advance — I think it's better cold than warm in this dish. It's my standard red sauce, able to be made in a hurry, but using some techniques for getting a rich, fully-cooked tomato flavor quickly. In other cases I'd add a bit of stock or other liquid to thin it out a bit but in this case the paste-like base state is even better.
 
-Fry several cloves of sliced garlic and a small can of tomato paste in olive oil. A lot of olive oil — a 125ml or more. The goal is to make a paste that barely can hold together with all the oil by the end. Add parsley and oregano and salt. Keep frying the paste, stirring only enough to keep it from burning. The goal is to caramelize the tomato, so I scrape and flip it over in the oil. The oil eventually starts to combine with the paste, and the paste will be a deep brown-red color. Splash a bit of wine in the pan to deglaze, stir it in, and set the sauce aside. Chill it for this recipe.
+Fry several cloves of sliced garlic and a small can of tomato paste in olive oil. A lot of olive oil. The goal is to make a paste that barely can hold together with all the oil by the end. Add parsley and oregano and salt. Keep frying the paste, to caramelize the tomato, so I scrape and flip it over in the oil. The oil eventually starts to combine with the paste, and the paste will be a deep brown-red color. Splash a bit of wine in the pan to deglaze, stir it in, and set the sauce aside. Chill it for this recipe.
 
 ## Rice
 

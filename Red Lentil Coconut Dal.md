@@ -44,5 +44,4 @@ Cook until the lentils collapse and the dal becomes creamy.
 
 
 
-Adapted from [Delicious Everyday](https://www.deliciouseveryday.com/red-lentil-dal/)
-
+[source]: https://www.deliciouseveryday.com/red-lentil-dal/ "Delicious Everyday"

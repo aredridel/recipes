@@ -2,9 +2,11 @@
 
 250ml water
 
+175g besan (chickpea) flour
+
 50ml garlic-ginger paste
 
-25g curry seasoning
+25g curry — a coriander-heavy blend is excellent
 
 1 medium onion
 
@@ -16,4 +18,8 @@ salt
 
 
 
-Slice the onions in thin strips. Sauteé in butter. Add garlic-ginger paste, and 
+Slice the onions in thin strips. Sauteé in butter until they begin to soften. Add garlic-ginger paste and curry spice.
+
+Mix the onions into the water and add the salt and chickpea flour.
+
+Fry in shallow oil in spoonfuls.

@@ -1,3 +1,7 @@
+---
+title: Lemon Beans and Rice
+---
+
 
 
 # Lemon Beans and Rice

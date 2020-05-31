@@ -4,13 +4,13 @@
 
 1 medium onion, diced
 
-1 tbsp grated ginger
+50g grated ginger
 
 1 red chili, de-seeded and finely chopped
 
 1 plum tomato, finely chopped
 
-50g coriander, finely chopped
+50g coriander, finely chopped, stems and leaves
 
 15g yellow mustard seeds
 
@@ -22,13 +22,13 @@
 
 15g ground turmeric
 
-2 cloves garlic finely chopped
+4-5 cloves garlic, finely minced
 
-1 cup red lentils
+150g red lentils
 
-3 cups vegetable stock
+700ml vegetable stock
 
-1 cup coconut milk
+250ml coconut milk
 
 salt and pepper to taste
 

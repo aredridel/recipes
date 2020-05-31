@@ -1,6 +1,12 @@
 Peach Custard Pie
 =================
 
+150g flour
+
+10g sugar
+
+4g salt
+
 
 
 

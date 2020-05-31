@@ -23,6 +23,15 @@ Sauces
 
 [Irish Soda Bread](Irish Soda Bread.md)
 
+Cocktails
+---------
+
+[Apple Amontillado](Drinks/Apple Amontillado.md) 
+
+[Peach Thing](Drinks/Peach Thing.md)  
+
+[Strawberry Sour](Drinks/Strawberry Sour.md) 
+
 Desserts
 --------
 

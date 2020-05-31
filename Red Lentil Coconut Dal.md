@@ -1,8 +1,8 @@
 # Red Lentil Dal with Coconut Milk
 
-2 tbsp olive oil
+40ml olive oil
 
-1 onion diced
+1 medium onion, diced
 
 1 tbsp grated ginger
 
@@ -10,9 +10,7 @@
 
 1 tomato finely chopped
 
-2 tbsp coriander (cilantro) roots and stalks finely chopped
-
-6 leaves curry
+2 tbsp coriander, finely chopped
 
 1 tsp yellow mustard seeds
 

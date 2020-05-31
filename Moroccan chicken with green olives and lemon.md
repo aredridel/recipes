@@ -1,38 +1,38 @@
 # Moroccan chicken with green olives and lemon
 
-Yield — 4 servings
-
-Active Time — 25 minutes
-
-Total Time — 55 minutes
+This is basically a tajine, only sized for American ingredients and cookware.
 
 
-2 Meyer lemons or regular lemons
 
-1 tablespoon olive oil
+2 lemons
 
-1 large onion, halved, thinly sliced
+20ml olive oil
 
-2 garlic cloves, pressed
+1 large onion, halved & sliced thin
 
-1 tablespoon paprika
+4-5 garlic cloves, minced
 
-2 teaspoons ground cumin
+20g paprika, ground
 
-1 teaspoon ground cinnamon
+20g cumin, toasted and ground
 
-1 teaspoon ground ginger
+10g cinnamon, ground
 
-2 cups low-salt chicken broth
+40g ginger, grated or minced
 
-1 4 1/2-pound chicken, cut into 8 pieces, skin removed
+500ml broth, preferably chicken
 
-1/2 cup green olives
+2kg chicken thighs, skin removed.
+
+150g green olives
 
 ## Instructions
 
+Cut 1 lemon into 8 wedges. Squeeze enough juice from the second lemon to measure 30ml; set wedges and juice aside. 
 
-Cut 1 lemon into 8 wedges. Squeeze enough juice from second lemon to measure 2 tablespoons; set wedges and juice aside. Heat oil in large skillet over medium-high heat. Add onion and sprinkle with salt and pepper; sauté until golden brown, about 8 minutes. Add next 5 ingredients; stir 1 minute. Add broth; bring to boil. Sprinkle chicken with salt and pepper; add to skillet. Add lemon wedges. Cover, reduce heat to medium-low, and simmer until chicken is cooked through, turning occasionally, 25 to 30 minutes. Transfer chicken to platter. Add olives and 2 tablespoons lemon juice to skillet. Increase heat to high; boil uncovered to thicken slightly, about 5 minutes. Season with salt and pepper. Pour over chicken. 
+Sauteé the onion with salt and pepper until starting to brown. 
+
+Add garlic, spices, ginger and bro Add next 5 ingredients; stir 1 minute. Add broth; bring to boil. Sprinkle chicken with salt and pepper; add to skillet. Add lemon wedges. Cover, reduce heat to medium-low, and simmer until chicken is cooked through, turning occasionally, 25 to 30 minutes. Transfer chicken to platter. Add olives and 2 tablespoons lemon juice to skillet. Increase heat to high; boil uncovered to thicken slightly, about 5 minutes. Season with salt and pepper. Pour over chicken. 
 
 
 [Source]: https://www.epicurious.com/recipes/food/views/moroccan-chicken-with-green-olives-and-lemon-352532

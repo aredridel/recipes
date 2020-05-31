@@ -34,6 +34,8 @@ Cocktails
 
 [Blue Thing](Drinks/Blue Thing.md) 
 
+[Blueberry Peach Cocktail](Drinks/Blueberry Peach Cocktail.md) 
+
 [Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a virgin gin and tonic like drink 
 
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and Greek Mastiha liquor.
@@ -48,7 +50,7 @@ Cocktails
 
 [Strawberry Sour](Drinks/Strawberry Sour.md)
 
- [Tamarind-Peach Cocktail](Drinks/Tamarind-Peach Cocktail.md) 
+[Tamarind-Peach Cocktail](Drinks/Tamarind-Peach Cocktail.md) 
 
 Desserts
 --------

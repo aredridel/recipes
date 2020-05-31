@@ -30,7 +30,7 @@ Cocktails
 
 [Blue Thing](Drinks/Blue Thing.md) 
 
-[Dzin without Tonic](Drinks/Dzin without Tonic.md) 
+[Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a virgin gin and tonic like drink 
 
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and Greek Mastiha liquor.
 

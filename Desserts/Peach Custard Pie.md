@@ -31,7 +31,7 @@ Filling
 
 1 egg
 
-1/3 cup flour
+40g flour
 
 1/2 cup sugar
 

@@ -14,7 +14,7 @@
 
 15g yellow mustard seeds
 
-25g ground cumin
+25g cumin seed
 
 15g ground coriander
 
@@ -36,7 +36,9 @@ salt to taste
 
 
 
-In a large pot over low heat, sauteé the onions, ginger, chilli, tomato and coriander stems. Cook unti the onions are soft and sweet. 
+In a large pot over low heat, toast the mustard seeds and cumin. When the mustard starts popping and the cumin is fragrant, grind the spices. 
+
+Sauteé the onions, ginger, chili, tomato, spices and coriander stems. Cook unti the onions are soft and sweet. 
 
 Add the mustard seeds. When the mustard seeds start to pop add the rest of the spices and garlic. Cook until fragrant. Add the lentils, stock and coconut milk, and simmer over low heat.
 

@@ -11,6 +11,4 @@ Strawberry Sour
 
 dash of cranberry bitters
 
-
-
 shake with ice

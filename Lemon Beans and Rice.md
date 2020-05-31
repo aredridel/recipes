@@ -2,7 +2,7 @@
 
 # Lemon Beans and Rice
 
-
+![lemon-garlic-beans](lemon-garlic-beans.jpg)
 
 This is a dish a lot like ful madamus — inspired by, but definitely with my own spin on it. It's rich, a whole meal on its own. Part of the charm of the dish is the layers with different textures, flavors, and even temperatures. It will serve 2 as a hearty meal, 3 or even 4 as a light meal.
 
@@ -10,9 +10,6 @@ Without the cheese, it'd be a solid vegan meal. I think it adds a something that
 
 Our household goes through several pounds of lemons each week, and dishes like this are part of why. There's so much flavor there, it seems silly to waste any of it.
 
-
-
-![lemon-garlic-beans](lemon-garlic-beans.jpg)
 
 ## Sauce
 

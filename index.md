@@ -47,5 +47,5 @@ Desserts
 
 [Peach Custard Pie](Desserts/Peach Custard Pie.md)  
 
-[Crustimony Proseedcake](Desserts/Crustimony Proseedcake.md) 
+[Crustimony Proseedcake](Desserts/Crustimony Proseedcake.md)
 

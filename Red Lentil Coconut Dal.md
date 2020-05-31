@@ -38,8 +38,11 @@ salt to taste
 
 In a large pot over low heat, sauteé the onions, ginger, chilli, tomato and coriander stems. Cook unti the onions are soft and sweet. 
 
-Add the mustard seeds. When the mustard seeds start to pop add the rest of the spices and garlic. Cook until fragrant. Add the lentils, stock and coconut milk and when it starts bubbling reduce the heat to low.
+Add the mustard seeds. When the mustard seeds start to pop add the rest of the spices and garlic. Cook until fragrant. Add the lentils, stock and coconut milk, and simmer over low heat.
 
-Let the dal bubble away for 20 minutes or so or until the lentils collapse and the dal becomes beautifully creamy. Taste and adjust the seasonings as necessary and add a squeeze of lemon. 
+Cook until the lentils collapse and the dal becomes creamy.
 
-from https://www.deliciouseveryday.com/red-lentil-dal/
+
+
+Adapted from [Delicious Everyday](https://www.deliciouseveryday.com/red-lentil-dal/)
+

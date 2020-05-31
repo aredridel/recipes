@@ -10,6 +10,10 @@ Without the cheese, it'd be a solid vegan meal. I think it adds a something that
 
 Our household goes through several pounds of lemons each week, and dishes like this are part of why. There's so much flavor there, it seems silly to waste any of it.
 
+
+
+![lemon-garlic-beans](lemon-garlic-beans.jpg)
+
 ## Sauce
 
 

@@ -39,11 +39,15 @@ Filling
 
 4g salt
 
-800g peaches (canned are great)
-
 
 
 Mix the butter, egg, flour, sugar, vanilla and salt well.
+
+
+
+## Assembly
+
+800g peaches (canned are great)
 
 
 Arrange the peaches in the crust, then scrape the custard filling over them (do not spread or smooth, just dump it in the middle).

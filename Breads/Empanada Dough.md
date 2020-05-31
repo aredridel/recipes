@@ -1,12 +1,23 @@
-Empanada Dough (and an alternative to struggling with French pie crust)
+Empanada Dough
+==============
+
+This is also a great alternative to struggling with French pie crust for a quick pie that you don't want to fuss with.
 
 Plus, this recipe also makes great empanadas.
 
-1 cup flour
-1/4 teaspoon salt
-1 stick butter
 
-Mix freely with a powered mixer, or at least until the butter is broken into pea sized pieces
+
+125g flour
+
+5g salt
+
+100g butter
+
+
+
+Mix flour, salt and butter freely with a powered mixer until the butter is broken into pea sized pieces.
+
+
 
 Add 1/3 cup boiling water, mix just enough to form a cohesive dough.
 

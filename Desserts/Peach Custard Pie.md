@@ -43,6 +43,7 @@ Filling
 
 
 
+Mix the butter, egg, flour, sugar, vanilla and salt well.
 
 
 

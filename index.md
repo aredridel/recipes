@@ -8,7 +8,7 @@
 
 [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
 
-
+[Moroccan chicken with green olives and lemon](Moroccan chicken with green olives and lemon.md)  tajine for European style cookware.
 
 ## Snacks
 

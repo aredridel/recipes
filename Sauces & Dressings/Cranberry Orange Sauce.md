@@ -1,15 +1,29 @@
-Cranberry Orange Relish
-=======================
+Cranberry Orange Sauce
+======================
+
+Delicious as a sauce, and sets up into a pretty solid mass thanks to the pectin in the cranberries. I love it on toast.
+
+Makes a fantastic sauce for pork if you mix 250ml cranberry sauce, 250ml chicken broth, a minced shallot, 1–2 cloves garlic, and a stalk of rosemary.
+
+
 
 Juice of three oranges
+
 zest of two oranges
+
 A thumb sized amount of fresh ginger, grated as finely as possible.
-1.5 packages of fresh cranberries (About 3 cups, measure will vary)
-2 tablespoons sugar.
-A pinch of salt.
 
-Simmer everything together until the cranberries all burst. Stir to prevent sticking, but it’s not fussy.
+1.5 US packages of fresh cranberries
 
-Let cool to room temperature and serve.
+50g sugar
 
-(Makes a fantastic sauce for pork if you mix 1 cup cranberry sauce, 1 cup chicken broth, 1/4 minced onion or equivalent amount of shallot, 1-2 cloves garlic, and a stalk of rosemary. Salt to taste.)
+2g salt
+
+
+
+Simmer all the ingredients until the cranberries burst. Stir to prevent sticking, but it’s not fussy.
+
+Cool to room temperature and serve.
+
+
+

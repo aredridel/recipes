@@ -31,16 +31,19 @@ Filling
 
 1 egg
 
-40g flour
+40g flour, ground almonds plus a bit of almond flavoring is a nice amendment
 
 100g sugar
 
-2ml vanilla extract
+4ml vanilla extract
 
-1/2 tsp salt
-(Optionally: substitute ground almonds for some of the flour, and add 1/4tsp almond extract.)
+4g salt
+
+29 oz
+
 
 Open and drain
+
  - 29oz can of peaches
 
 Arrange the peaches in the crust, then scrape the goo over them (do not spread or smooth, just dump it in the middle).

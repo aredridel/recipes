@@ -6,6 +6,8 @@
 
 [Sunburgers](Sunburgers.md), a vegan burger made from oats and sunflower seeds
 
+[Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
+
 
 
 ## Snacks

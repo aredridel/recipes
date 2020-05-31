@@ -46,8 +46,9 @@ Filling
 Mix the butter, egg, flour, sugar, vanilla and salt well.
 
 
-
 Arrange the peaches in the crust, then scrape the custard filling over them (do not spread or smooth, just dump it in the middle).
-Bake at 205 °C (400°F) for 10 minutes, then turn the oven down to 300 and bake for 50min longer, or until lightly browned.
+Bake at 205 °C (400°F) for 10 minutes, then turn the oven down to 150 °C (300 °F) and bake for 50 minutes longer, or until lightly browned.
 
-(thanks to cfox)
+
+
+[source]: # cfox

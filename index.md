@@ -28,7 +28,7 @@ Cocktails
 
 [Apple Amontillado](Drinks/Apple Amontillado.md) 
 
-[Mediterranean Gulf](Drinks/Mediterranean Gulf.md) 
+[Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and Greek Mastiha liquor.
 
 [Orange Coconut Creamsicle](Drinks/Orange Coconut Creamsicle.md) 
 

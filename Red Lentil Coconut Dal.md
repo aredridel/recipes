@@ -8,19 +8,19 @@
 
 1 red chili, de-seeded and finely chopped
 
-1 tomato finely chopped
+1 plum tomato, finely chopped
 
-2 tbsp coriander, finely chopped
+50g coriander, finely chopped
 
-1 tsp yellow mustard seeds
+15g yellow mustard seeds
 
-2 tsp ground cumin
+25g ground cumin
 
-1 tsp ground coriander
+15g ground coriander
 
-1 tsp ground cinnamon
+10g ground cinnamon
 
-1 tsp ground turmeric
+15g ground turmeric
 
 2 cloves garlic finely chopped
 

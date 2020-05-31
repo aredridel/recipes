@@ -23,3 +23,7 @@ Slice the onions in thin strips. Sauteé in butter until they begin to soften. A
 Mix the onions into the water and add the salt and chickpea flour.
 
 Fry in shallow oil in spoonfuls.
+
+
+
+Serve with a tomato chutney or a mild pepper sauce.

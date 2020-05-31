@@ -33,9 +33,9 @@ Filling
 
 40g flour
 
-1/2 cup sugar
+100g sugar
 
-1 tsp vanilla extract
+2ml vanilla extract
 
 1/2 tsp salt
 (Optionally: substitute ground almonds for some of the flour, and add 1/4tsp almond extract.)

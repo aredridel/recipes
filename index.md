@@ -40,7 +40,7 @@ Cocktails
 
 [Sour Cherry](Drinks/Sour Cherry.md) 
 
-[Strawberry Sour](Drinks/Strawberry Sour.md) 
+[Strawberry Sour](Drinks/Strawberry Sour.md)
 
 Desserts
 --------

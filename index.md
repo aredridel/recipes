@@ -30,6 +30,8 @@ Cocktails
 
 [Blue Thing](Drinks/Blue Thing.md) 
 
+[Dzin without Tonic](Drinks/Dzin without Tonic.md) 
+
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and Greek Mastiha liquor.
 
 [Orange Coconut Creamsicle](Drinks/Orange Coconut Creamsicle.md)

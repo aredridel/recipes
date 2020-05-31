@@ -122,6 +122,12 @@ code, pre {
 	margin-bottom: 1.5em;
 }
 
+p>img {
+	display: block;
+	text-indent: -5ch;
+	width: 100%;
+}
+
 a {
 	color: #2484c1;
 	text-decoration: none;

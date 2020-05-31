@@ -4,7 +4,7 @@ This is basically a tajine, only sized for American ingredients and cookware.
 
 
 
-2 lemons
+2 lemons, 1 cut in 8ths, 1 juiced.
 
 20ml olive oil
 
@@ -30,13 +30,19 @@ salt and pepper
 
 ## Instructions
 
-Cut 1 lemon into 8 wedges. Squeeze enough juice from the second lemon to measure 30ml; set wedges and juice aside. 
+Cut 1 lemon into 8 wedges. Juice the second. Set the wedges and juice aside. 
 
 Sauteé the onion with salt and pepper in a skillet until starting to brown. 
 
 Add garlic, spices, ginger and broth and bring to a boil. 
 
-Sprinkle chicken with salt and pepper and add to the skillet Add lemon wedges. Cover, reduce heat to medium-low, and simmer until chicken is cooked through, turning occasionally, 25 to 30 minutes. Transfer chicken to platter. Add olives and 2 tablespoons lemon juice to skillet. Increase heat to high; boil uncovered to thicken slightly, about 5 minutes. Season with salt and pepper. Pour over chicken. 
+Sprinkle the chicken with salt and pepper and add it to the skillet in a single layer. Tuck lemon wedges between them. 
+
+Cover, reduce heat to medium-low, and simmer until the chicken is cooked through, turning occasionally, 25 to 30 minutes. 
+
+Transfer the chicken to a platter. 
+
+Add olives and the lemon juice to the skillet. Increase heat to high; boil uncovered to thicken slightly, about 5 minutes. Season with salt and pepper. Pour over the chicken. 
 
 
 [Source]: https://www.epicurious.com/recipes/food/views/moroccan-chicken-with-green-olives-and-lemon-352532

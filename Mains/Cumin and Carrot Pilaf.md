@@ -1,7 +1,8 @@
-# Cumin and Carrot Pilaf
+# Cumin and Carrot Rice
 
-1 small onion, chopped,
+1 small onion, chopped
 
+20 ml olive oil
 
+140 g rice
 
-140g rice

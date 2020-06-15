@@ -2,7 +2,11 @@
 
 1 small onion, chopped
 
-20 ml olive oil
+3 cloves garlic, minced
+
+
+
+30 ml olive oil
 
 140 g rice
 

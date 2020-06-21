@@ -5,7 +5,9 @@ Hummus
 - 1/4 cup aqua faba or water
 - 1/4 cup lemon juice
 - 2 cloves of garlic, finely minced
+- 1 teaspoon salt
 - 3 tablespoons tahini
 - 2 tablespoons chopped parsley
 - 2 tablespoons olive oil
-- 
+
+Puree the chickpeas in a food processor or blender, adding the liquid for a smooth, creamy puree. Transfer to a bowl. Beat in lemon juice, garlic, salt and 

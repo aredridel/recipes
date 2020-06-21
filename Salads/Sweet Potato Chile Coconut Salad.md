@@ -6,8 +6,6 @@
 
 Steam or boil the yams in bite size pieces, drain and cool them when they are pleasantly tender but still hold their shape. Add the corn and beans.
 
-
-
 Dressing
 --------
 

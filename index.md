@@ -17,7 +17,7 @@
 Salads
 ------
 
-- []
+- [Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md) 
 
 Sauces
 ------

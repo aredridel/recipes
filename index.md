@@ -12,13 +12,7 @@
 
 [Moroccan chicken with green olives and lemon](Moroccan chicken with green olives and lemon.md)  tajine for European style cookware.
 
-[Cumin and Carrot Rice](Mains/Cumin and Carrot Rice.md)
-
-Salads
-------
-
-- [Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md) 
-- []
+ [Cumin and Carrot Rice](Mains/Cumin and Carrot Rice.md)
 
 Sauces
 ------

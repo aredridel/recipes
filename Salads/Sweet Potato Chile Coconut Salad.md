@@ -16,5 +16,5 @@ Dressing
 - 15g smoked paprika, or 10g hot paprika plus 3g chipotle pepper powder
 - Juice of 1 lime
 
-Mix the rest into a dressing and coat the rest. Chill.
+Mix into a dressing and coat the salad. Chill.
 

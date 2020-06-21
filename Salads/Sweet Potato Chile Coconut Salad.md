@@ -1,9 +1,7 @@
-- ## Salad
+## Salad
 
 - 3 sweet potatoes (US 'yams')
-
 - 1 can black beans
-
 - 1 can of corn
 
 Steam or boil the yams in bite size pieces, drain and cool them when they are pleasantly tender but still hold their shape. Add the corn and beans.

@@ -14,6 +14,12 @@
 
  [Cumin and Carrot Rice](Mains/Cumin and Carrot Rice.md)
 
+Salads
+------
+
+-  [Creamy Italian Sausage Pasta Salad](Salads/Creamy Italian Sausage Pasta Salad.md) 
+-  [Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md) 
+
 Sauces
 ------
 

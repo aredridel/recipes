@@ -14,6 +14,11 @@
 
 [Cumin and Carrot Rice](Mains/Cumin and Carrot Rice.md)
 
+Salads
+------
+
+- []
+
 Sauces
 ------
 

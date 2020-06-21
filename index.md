@@ -22,6 +22,7 @@
 - [Creamy Italian Sausage Pasta Salad](Salads/Creamy Italian Sausage Pasta Salad.md)
 - [Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md)
 - [Lemon Feta Carrot Pasta Salad](Salads/Lemon Feta Carrot Pasta Salad.md)
+- [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md)
 
 ## Sauces
 

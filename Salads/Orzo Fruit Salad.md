@@ -16,7 +16,16 @@ Salad
 
 - 1/2 cup pecan pieces or sunflower seeds
 
+Cook the pasta to al dente, drain, rinse in cold water and drain again. 
 
 
-Cook the pasta, drain
 
+Dressing
+--------
+
+- 5 ounches (1/2 box) silken tofu
+- 2 tablespoons sugar
+- 2 tablespoons pineapple juice
+- 1/2 teaspoon vanilla
+- 1/4 teaspoon lemon juice
+- a pinch of salt

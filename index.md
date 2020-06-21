@@ -14,6 +14,7 @@
 
 - [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md)
 - [Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md)
+- [Hummus](Sides/Hummus.md)
 
 ## Salads
 

@@ -31,3 +31,7 @@ Dressing
 - a pinch of salt
 
 Blend in a blender until smooth.
+
+
+
+Mix with the salad and chill.

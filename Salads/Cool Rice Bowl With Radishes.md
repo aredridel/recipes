@@ -27,15 +27,12 @@ Cook rice al dente (in 3 1/2 cups water). Mix in frozen peas and dressing. Set a
 
 
 
-
-
 Salad
 -----
 
 - 2 bunches of radishes (about 15)
 - 2 scallions, chiffonade
 - 1/2 cup slivered almonds
-- Dressing, above
 - Rice, above
 
-Toast the almonds in a pan..
+Toast the almonds in a pan. Slice the radishes thin. Mix into the rice and serve.

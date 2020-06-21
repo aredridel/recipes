@@ -22,8 +22,8 @@
 - [Creamy Italian Sausage Pasta Salad](Salads/Creamy Italian Sausage Pasta Salad.md)
 - [Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md)
 - [Lemon Feta Carrot Pasta Salad](Salads/Lemon Feta Carrot Pasta Salad.md)
-- [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md)
-- [Orzo Fruit Salad](Salads/Orzo Fruit Salad.md)
+- [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md) with flavors of ginger and scallion
+- [Orzo Fruit Salad](Salads/Orzo Fruit Salad.md), a creamy sand sweet vegan pasta salad.
 
 ## Sauces
 

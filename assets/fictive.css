@@ -90,8 +90,7 @@ h2 + h3 {
   margin-top: 0.83em;
 }
 
-p,
-.mathjax-block {
+p {
   margin-top: 0;
   -webkit-hypens: auto;
   -moz-hypens: auto;
@@ -99,6 +98,11 @@ p,
   text-indent: 5ch;
   margin-bottom: 0;
 }
+
+li > p:first-child {
+  text-indent: 0;
+}
+
 ul {
   list-style: none;
   padding-left: 2ch;
@@ -139,16 +143,16 @@ a {
   text-decoration: none;
 }
 a[href]:hover,
-a[xlink:href]:hover {
+a[xlink\:href]:hover {
   text-decoration: underline;
 }
 a[href] img,
-a[xlink:href] {
+a[xlink\:href] {
   border: none;
 }
 h1 a,
 h1 a[href]:hover,
-h1 a[xlink:href]:hover {
+h1 a[xlink\:href]:hover {
   color: #333;
   text-decoration: none;
 }
@@ -307,10 +311,6 @@ table tbody + tbody {
 .md-task-list-item > input {
   margin-left: -1.3em;
   margin-top: calc(1rem - 12px);
-}
-
-.md-mathjax-midline {
-  background: #fafafa;
 }
 
 .md-fences .code-tooltip {

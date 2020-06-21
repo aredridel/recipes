@@ -16,7 +16,7 @@ Salad
 
 - 1/2 cup pecan pieces or sunflower seeds
 
-Cook the pasta to al dente, drain, rinse in cold water and drain again. 
+Cook the pasta to al dente, drain, rinse in cold water and drain again.  Mix in the other ingredients.
 
 
 
@@ -29,3 +29,5 @@ Dressing
 - 1/2 teaspoon vanilla
 - 1/4 teaspoon lemon juice
 - a pinch of salt
+
+Blend in a blender until smooth.

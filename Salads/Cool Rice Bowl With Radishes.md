@@ -19,9 +19,11 @@
 
 - 2 cups basmati rice
 
-- 10 ounces of frozen peas 
+- 10 ounces of frozen peas
 
-Cook rice al dente (in 3 1/2 cups water)
+- Dressing from above 
+
+Cook rice al dente (in 3 1/2 cups water). Mix in frozen peas and dressing. Set aside to cool.
 
 
 

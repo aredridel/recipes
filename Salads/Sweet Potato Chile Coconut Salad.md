@@ -1,3 +1,6 @@
+Sweet Potato Chile Coconut Salad
+================================
+
 ## Salad
 
 - 3 sweet potatoes (US 'yams')

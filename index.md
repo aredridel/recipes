@@ -12,6 +12,9 @@
 
 [Moroccan chicken with green olives and lemon](Moroccan chicken with green olives and lemon.md)  tajine for European style cookware.
 
+Sides
+-----
+
 [Cumin and Carrot Rice](Mains/Cumin and Carrot Rice.md)
 
 Salads

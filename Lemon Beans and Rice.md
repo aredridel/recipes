@@ -51,6 +51,10 @@ Fry several cloves of sliced garlic and a small can of tomato paste in olive oil
 
 Boil the water, add the rice, salt and spices. Drop to very low heat, cook 15 minutes for small-grain rice, 18 for short-grain, 20 for long-grain. Remove from the heat and leave covered. If you get a slight toasty bottom on the rice, it's perfect, but the goal is firm rice just past al dente.
 
+
+
+Alternatively, [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md)  is delicious instead of this simple white rice.
+
 ## Beans
 
 - 500g white beans

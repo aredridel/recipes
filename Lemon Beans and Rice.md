@@ -53,7 +53,7 @@ Boil the water, add the rice, salt and spices. Drop to very low heat, cook 15 mi
 
 
 
-Alternatively, [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md)  is delicious instead of this simple white rice.
+Alternatively, [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md) is delicious instead of this simple white rice.
 
 ## Beans
 

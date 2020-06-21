@@ -12,8 +12,10 @@ Salad
 Dressing
 --------
 
-- 200ml mayonaise 
-- 100ml of the [sauce from this recipe](../Lemon Beans and Rice.md)
+- 1 lemon, pureed
+- 10g salt
+- 100 ml mayonaise 
+- 
 
 Mix.
 

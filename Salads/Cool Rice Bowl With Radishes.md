@@ -1,6 +1,9 @@
+- # Cool Rice Bowl with Radishes
+
 - ## Dressing
 
 - 1/3 cup seasoned rice vinegar
+
 - 2 tablespoons vegetable oil
 
 - 2 teaspoons grated fresh ginger

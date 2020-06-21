@@ -1,4 +1,6 @@
-- 3 sweet potatoes (US 'yams')
+- 500g bite sized pasta, cooked al dente
+- 200ml mayonaise 
+- 100ml of the [sauce from this recipe](
 - 1 can black beans
 - 1 can of corn
 - 200ml mayonaise

@@ -1,11 +1,11 @@
-- 500g bite sized pasta, cooked al dente
+- 500g bite sized pasta, cooked al dente. I prefer campanelle
+- 1 can black olives
+- 4 italian sausages, (approximately 400g) cooked and sliced into discs
 - 200ml mayonaise 
-- 100ml of the [sauce from this recipe](
-- 1 can black beans
-- 1 can of corn
-- 200ml mayonaise
-- 60ml coconut milk
-- 10g garlic powder
+- 100ml of the [sauce from this recipe](../Lemon Beans and Rice.md)
+
+
+
 - 10g smoked salt, or 10g salt plus a few drops of liquid smoke.
 - 15g smoked paprika, or 10g hot paprika plus 3g chipotle pepper powder
 - Juice of 1 lime

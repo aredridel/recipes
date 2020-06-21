@@ -39,37 +39,33 @@ Fry several cloves of sliced garlic and a small can of tomato paste in olive oil
 
 ## Rice
 
-500ml water
+- 500ml water
 
-150g white rice
+- 150g white rice
 
-4 bay leaves
+- 4 bay leaves
 
-5-6 cloves or allspice berries
+- 5-6 cloves or allspice berries
 
-pinch of salt
-
-
+- pinch of salt
 
 Boil the water, add the rice, salt and spices. Drop to very low heat, cook 15 minutes for small-grain rice, 18 for short-grain, 20 for long-grain. Remove from the heat and leave covered. If you get a slight toasty bottom on the rice, it's perfect, but the goal is firm rice just past al dente.
 
 ## Beans
 
+- 500g white beans
 
+- 20g cumin seed
 
-500g white beans
+- 2g cinnamon
 
-20g cumin seed
+- 3–4 cloves of garlic
 
-2g cinnamon
+- 1 lemon
 
-3–4 cloves of garlic
+- 100ml olive oil
 
-1 lemon
-
-100ml olive oil
-
-salt
+- salt
 
 
 
@@ -85,22 +81,20 @@ Fry the garlic, then the beans in the olive oil. Add the cumin, cinnamon, and le
 
 ## The final dish
 
-200g of cream cheese (in rough "slices" for easy distribution), pickled or plain labneh (crunbled), or even cottage cheese. A softish, unripe, white cheese.
+- 200g of cream cheese (in rough "slices" for easy distribution), pickled or plain labneh (crumbled), or even cottage cheese. A softish, unripe, white cheese.
 
-crispy fried onions or garlic for topping
+- crispy fried onions or garlic for topping
 
-chopped coriander leaf
+- chopped coriander leaf
 
-the rice from above
+- the rice from above
 
-the sauce from above
+- the sauce from above
 
-the beans from above
-
+- the beans from above
 
 
 Layer portions in bowls for serving: rice (warm), cheese (cold), beans (warm), sauce (cold), coriander and crispy onions or garlic. 
-
 
 
 Serve immediately so the temperatures don't equalize.

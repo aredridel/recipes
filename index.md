@@ -8,7 +8,8 @@
 
 - [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
 
-- [Moroccan chicken with green olives and lemon](Moroccan chicken with green olives and lemon.md) tajine for European style cookware.
+- [Moroccan chicken with green olives and lemon](Moroccan chicken with green
+  olives and lemon.md) tajine for European style cookware.
 
 ## Sides
 
@@ -43,9 +44,11 @@
 
 - [Blueberry Peach Cocktail](Drinks/Blueberry Peach Cocktail.md)
 
-- [Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a virgin gin and tonic like drink
+- [Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a
+virgin gin and tonic like drink
 
-- [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and Greek Mastiha liquor.
+- [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and
+Greek Mastiha liquor.
 
 - [Orange Coconut Creamsicle](Drinks/Orange Coconut Creamsicle.md)
 

@@ -25,6 +25,7 @@
 - [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md) with flavors of ginger and scallion
 - [Orzo Fruit Salad](Salads/Orzo Fruit Salad.md), a creamy sand sweet vegan pasta salad.
 - [Egg-Not! Salad](Salads/Egg Not Salad.md)
+- [Greek Salad](Salads/Greek Salad.md), one of my 
 
 ## Sauces
 

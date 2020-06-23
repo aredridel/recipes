@@ -121,6 +121,7 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Mustard
 - Nutmeg
 - Peppercorns
+- Long pepper
 - Sesame
 - Sichuan Peppercorns
 

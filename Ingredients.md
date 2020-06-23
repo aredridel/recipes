@@ -19,12 +19,10 @@ In the refrigerator
 -------------------
 
 - Cream
-
 - Sour cream
-
 - Butter
 
-- 
+Eggs
 
 - Cheddar, sharp white ones are my favorite
 

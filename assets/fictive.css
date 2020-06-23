@@ -38,14 +38,13 @@
   }
 }
 
-body {
+:root > * {
   font-family: "Gentium Book Basic", Palatino, Times;
   color: #333;
   line-height: 1.6;
   max-width: 960px;
   margin-left: var(--margin);
   margin-right: var(--margin);
-  margin-top: 3em;
   line-height: 1.6;
   padding: 2em;
 }
@@ -90,35 +89,29 @@ h2 + h3 {
   margin-top: 0.83em;
 }
 
-p {
-  margin-top: 0;
-  -webkit-hypens: auto;
-  -moz-hypens: auto;
-  hyphens: auto;
+:not(li) > p {
   text-indent: 5ch;
+}
+
+p,
+li p {
+  margin-top: 0;
+  hyphens: auto;
   margin-bottom: 0;
 }
-
-li > p:first-child {
-  text-indent: 0;
-}
-
 ul {
   list-style: none;
   padding-left: 2ch;
+  margin-bottom: 1em;
 }
 ol {
   padding-left: 2ch;
 }
-li {
+
+ul > li,
+ol > li {
   margin-left: 3ch;
 }
-
-p > img {
-  display: block;
-  width: 100%;
-}
-
 blockquote {
   margin-left: 5ch;
   font-style: italic;
@@ -142,17 +135,14 @@ a {
   color: #2484c1;
   text-decoration: none;
 }
-a[href]:hover,
-a[xlink\:href]:hover {
+a:hover {
   text-decoration: underline;
 }
-a[href] img,
-a[xlink\:href] {
+a img {
   border: none;
 }
 h1 a,
-h1 a[href]:hover,
-h1 a[xlink\:href]:hover {
+h1 a:hover {
   color: #333;
   text-decoration: none;
 }
@@ -319,4 +309,10 @@ table tbody + tbody {
 
 .dropdown-menu .divider {
   border-color: #e5e5e5;
+}
+
+.md-comment {
+  color: #888;
+  font-family: inherit;
+  font-style: italic;
 }

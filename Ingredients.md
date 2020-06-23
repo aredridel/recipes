@@ -32,8 +32,6 @@ Eggs
 
 - 
 
-  Cabbage or Brussels sprouts
-
   Carrots
 
   Culantro or Cilantro
@@ -48,6 +46,7 @@ Eggs
 
 ### In the winter
 
+- Cabbage or Brussels sprouts
 - Cauliflower
 - Swede
 - 

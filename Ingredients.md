@@ -47,6 +47,8 @@ Eggs
 Seasonings
 ----------
 
+I should probably also keep dried shrimp 
+
 - Bragg's Liquid Aminos
 
   Shoyu

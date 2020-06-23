@@ -1,7 +1,7 @@
 Ingredients
 ===========
 
-I keep these on hand all the time. They're a foundation of improvizational cooking for me, and any time I run low of any one of these, I'm off to the store.
+I keep these on hand all the time. They're a foundation of improvizational cooking for me, and any time I run low on any one of these, I'm off to the store.
 
 In the open
 -----------

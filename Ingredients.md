@@ -17,12 +17,18 @@ In the refrigerator
 -------------------
 
 - Cream
+
 - Sour cream
+
 - Butter
+
 - Cheddar — sharp white cheddars are my favorite
+
 - Feta
-- Scallions
-- Culantro or Cilantro
+
+  Culantro or Cilantro
+
+  Scallions
 
 Seasonings
 ----------

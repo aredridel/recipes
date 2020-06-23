@@ -104,7 +104,7 @@ On the spice rack
 - Marjoram
 - Summer Savory
 - Lavender
-- Herbes de Provance as a blend
+- Herbes de prevance as a blend
 
 ### Whole Spices
 

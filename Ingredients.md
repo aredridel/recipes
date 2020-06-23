@@ -13,6 +13,7 @@ In the open
 - Ginger
 - Sweet Potatoes
 - Jalapeños until they ripen
+- Olive Oil
 
 In the refrigerator
 -------------------

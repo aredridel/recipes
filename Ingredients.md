@@ -25,24 +25,15 @@ In the refrigerator
 Eggs
 
 - Cheddar, sharp white ones are my favorite
-
 - Feta
-
 - Romano
-
 - 
-
-  Carrots
-
-  Culantro or Cilantro
-
-  Celery
-
-  Leeks
-
-  Scallions
-
-  Red Bell Peppers
+- Carrots
+- Culantro or Cilantro
+- Celery
+- Leeks
+- Scallions
+- Red Bell Peppers
 
 ### In the winter
 

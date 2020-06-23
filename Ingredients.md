@@ -47,7 +47,7 @@ Eggs
 Seasonings
 ----------
 
-I should probably also keep dried shrimp 
+I should probably also keep dried shrimp and bonito flakes handy to make dashi, but I've not integrated that into my habits nor cupboard yet.
 
 - Bragg's Liquid Aminos
 

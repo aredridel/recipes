@@ -116,4 +116,5 @@ Dry Goods
 - Farro
 - Oats, both rolled and steel cut
 - Sooji (Cream of wheat or wheat farina)
-- Wheat flour
+- Wheat flour, particularly the [Golden Buffalo and UBAP from Heartland Mill](http://www.heartlandmill.com/product.html)
+- Wheat gluten flour

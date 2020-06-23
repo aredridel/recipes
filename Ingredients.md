@@ -53,12 +53,12 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 
 - Allspice
 - Ajwain
-- Mustard
 - Caraway
 - Celery
 - Coriander
 - Cumin
 - Fenugreek
+- Mustard
 - Nutmeg
 - 
 

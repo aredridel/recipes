@@ -30,6 +30,8 @@ In the refrigerator
 
 - Feta
 
+- Romano
+
 - 
 
   Carrots
@@ -119,6 +121,7 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 
 ### Ground Spices
 
+- Amchoor (green mango)
 - Cinnamon
 - Clove
 - Nutmeg

@@ -59,12 +59,10 @@ Seasonings
 
 - Oyster sauce
 
-- 
+Mojo criollo
 
 - Sichuan Chili Paste
-
 - Sriracha
-
 - plus any of a dozen hot sauces
 
 - ### Vinegars

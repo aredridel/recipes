@@ -111,18 +111,31 @@ On the spice rack
 Always as whole seed if I can get it. I use my spice grinder nearly every time I cook.
 
 - Allspice
+
 - Ajwain
+
 - Caraway
+
 - Celery
+
 - Clove
+
 - Coriander
+
 - Cumin
+
 - Fenugreek
+
 - Mustard
+
 - Nutmeg
-- 
+
+  
+
 - Peppercorns
+
 - Long pepper
+
 - Sichuan Peppercorns
 
 - Sesame seeds

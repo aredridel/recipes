@@ -153,13 +153,23 @@ Dry Goods
 ### Grains
 
 - Barley, pearled
+
 - Corn meal, coarse, for polenta & soups
+
 - Corn meal, fine, for corn bread
+
 - Corn masa, for tortillas and tamales
+
 - Farro
+
 - Oats, both rolled and steel cut
+
+  Rice, short grain white, long grain white, arborio and brown
+
 - Sooji (Cream of wheat or wheat farina)
-- Wheat flour, particularly the [Golden Buffalo and UBAP from Heartland Mill](http://www.heartlandmill.com/product.html) and [King Arthur Self-Rising]()
+
+- Wheat flour, particularly the [Golden Buffalo and UBAP from Heartland Mill](http://www.heartlandmill.com/product.html) and [King Arthur Self-Rising](https://shop.kingarthurflour.com/items/king-arthur-unbleached-self-rising-flour-5-lb)
+
 - Wheat gluten flour
 
 ### Others
@@ -169,5 +179,3 @@ Sugar
 Brown sugar
 
 Baking powder
-
-Sel

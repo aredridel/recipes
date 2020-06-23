@@ -12,6 +12,7 @@ In the open
 - Onions
 - Ginger
 - Sweet Potatoes
+- Jalapeños until they ripen
 
 In the refrigerator
 -------------------
@@ -54,6 +55,8 @@ Seasonings
 - Light fish sauce
 
 - Dark fish sauce
+
+- Oyster sauce
 
 - 
 

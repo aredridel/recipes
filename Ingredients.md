@@ -46,6 +46,12 @@ Eggs
 
   Red Bell Peppers
 
+### In the winter
+
+- Cauliflower
+- Swede
+- 
+
 Seasonings
 ----------
 

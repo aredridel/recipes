@@ -89,6 +89,7 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Mustard
 - Nutmeg
 - Peppercorns
+- Sesame
 - Sichuan Peppercorns
 
 ### Ground Spices

@@ -19,9 +19,10 @@ In the refrigerator
 - Cream
 - Sour cream
 - Butter
-- Sharp Cheddar
+- Cheddar — sharp white cheddars are my favorite
 - Feta
 - Scallions
+- Culantro or Cilantro
 - 
 
 On the spice rack
@@ -37,12 +38,12 @@ On the spice rack
 
 ### Herbs
 
+- Dill
+- Epazote
 - Thyme
 - Oregano
 - Marjoram
 - Summer Savory
-- Epazote
-- Dill
 - Lavender
 - Herbes de Provance as a blend
 
@@ -70,13 +71,19 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Ginger
 - 
 
-Canned Goods
-------------
+Canned Fruits and Vegetables
+----------------------------
 
 - Kernel corn
 - Creamed corn
 - Black Beans
 - Cannelini 
+- Tomato diced
 - Tomato paste, always several 6 ounce US cans on the shelf
-- Pureed tomato
-- Diced tomato
+- Tomato puree
+
+Other Canned Goods
+------------------
+
+- Coconut milk ("lite coconut milk" in the US) and cream ("coconut milk" in the US)
+- Broth, seldom used but a good rescue.

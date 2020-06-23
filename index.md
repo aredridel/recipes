@@ -27,7 +27,6 @@
 - [Egg-Not! Salad](Salads/Egg Not Salad.md)
 - [Greek Salad](Salads/Greek Salad.md), one of my family's recipes growing up, with no pretenses of authenticity.
 - [Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md)
-- 
 
 ## Sauces
 

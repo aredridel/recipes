@@ -67,13 +67,20 @@ Seasonings
 
 - plus any of a dozen hot sauces
 
-- Vinegar —
+- ### Vinegars
+
 - red wine
+
 - white distilled
+
 - home fermented apple cider
+
 - white wine
+
 - coconut
+
 - rice
+
 - 
 
 On the spice rack

@@ -107,8 +107,13 @@ Dry Goods
 - Brown lentils
 - French lentils or Black lentils
 
-
-
 ### Grains
 
-- Sooji (Cream of wheat / Farina)
+- Barley, pearled
+- Corn meal, coarse, for polenta & soups
+- Corn meal, fine, for corn bread
+- Corn masa, for tortillas and tamales
+- Farro
+- Oats, both rolled and steel cut
+- Sooji (Cream of wheat or wheat farina)
+- Wheat flour

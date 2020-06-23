@@ -108,7 +108,7 @@ On the spice rack
 
 ### Whole Spices
 
-Always as whole seed if I can get it. I use my spice grinder nearly every time I cook.
+Always as whole seed if I can get it. I use my spice grinder nearly every time I cook. I go through more than 500g of cumin per year, and almost as much mustard. 
 
 - Allspice
 
@@ -127,6 +127,8 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Fenugreek
 
 - Mustard
+
+- Nigella
 
 - Nutmeg
 

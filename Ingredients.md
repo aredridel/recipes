@@ -22,12 +22,12 @@ In the refrigerator
 - Sour cream
 - Butter
 
-Eggs
+- Eggs
 
 - Cheddar, sharp white ones are my favorite
 - Feta
 - Romano
-- 
+
 - Carrots
 - Culantro or Cilantro
 - Celery

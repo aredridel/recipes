@@ -26,7 +26,7 @@ In the refrigerator
 
 - 
 
-- Cheddar — sharp white cheddars are my favorite
+- Cheddar, sharp white ones are my favorite
 
 - Feta
 

@@ -36,8 +36,6 @@ Eggs
 
   Carrots
 
-  Cauliflower, in the winter
-
   Culantro or Cilantro
 
   Celery

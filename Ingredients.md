@@ -43,13 +43,26 @@ Seasonings
 
 - Tamari
 
+- Light fish sauce
+
+- Dark fish sauce
+
+- 
+
 - Sichuan Chili Paste
 
 - Sriracha
 
-- Vinegars, red wine, white distilled, home fermented apple cider, white wine, coconut, and rice
-
 - plus any of a dozen hot sauces
+
+- Vinegar —
+- red wine
+- white distilled
+- home fermented apple cider
+- white wine
+- coconut
+- rice
+- 
 
 On the spice rack
 -----------------

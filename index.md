@@ -1,5 +1,11 @@
 # Recipes
 
+I'm putting recipes from my family cookbook here as well as writing down my own recipes with more specificity than I usually do. 
+
+I grew up vegetarian, so there's a lot of meatless or meat-optional meals here. Some of the things my mother put in the cookbook she gave me are, I'm sure, clippings from the Vegetarian Times magazine. In hindsight I had a delicious pan-cultural upbringing but also most of the recipes I grew up with were lightened up on fat, salt and spices. My approach to cooking now uses a lot more of all of those things, and I'm starting to bump up the numbers in those older recipes. On the other hand, what my family did growing up did manage to steer around the blandest, cardboardiest bits of 1980s vegan macrobiotic diet weirdness. Not so many kale salads with tofu dressings, more vaguely "asian" themed dishes, with only one or two ingredients giving a gist of what culture they came from. Bridging the gap from there to 
+
+
+
 ## Mains
 
 - [Lemon Beans and Rice](Lemon Beans and Rice.md), a rich take on ful madamus

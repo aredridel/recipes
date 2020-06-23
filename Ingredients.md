@@ -30,9 +30,17 @@ In the refrigerator
 
 - 
 
+  Carrots
+
   Culantro or Cilantro
 
+  Celery
+
+  Leeks
+
   Scallions
+
+  Red Bell Peppers
 
 Seasonings
 ----------

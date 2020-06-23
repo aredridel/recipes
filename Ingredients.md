@@ -40,7 +40,6 @@ In the refrigerator
 - Cabbage or Brussels sprouts
 - Cauliflower
 - Swede
-- 
 
 Seasonings
 ----------

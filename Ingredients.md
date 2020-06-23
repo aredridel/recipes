@@ -32,6 +32,8 @@ Eggs
 
 - 
 
+  Cabbage or Brussels sprouts
+
   Carrots
 
   Culantro or Cilantro

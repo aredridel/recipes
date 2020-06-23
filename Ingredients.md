@@ -1,7 +1,7 @@
 Ingredients
 ===========
 
-I keep these on hand all the time. They're a foundation of improvizationa
+I keep these on hand all the time. They're a foundation of improvizational cooking for me, and any time I run low of any one of these, I'm off to the store.
 
 In the open
 -----------
@@ -21,21 +21,54 @@ In the refrigerator
 - Butter
 - Sharp Cheddar
 - Feta
+- Scallions
+- 
 
 On the spice rack
 -----------------
 
-- ### Capiscums
+### Capiscums
 
 - Hot Paprika
-
 - Sweet Paprika
-
 - Smoked Paprika
-
 - Cayenne
-
 - Chipotle powder
+
+### Herbs
+
+- Thyme
+- Oregano
+- Marjoram
+- Summer Savory
+- Epazote
+- Dill
+- Lavender
+- Herbes de Provance as a blend
+
+### Seed Spices
+
+Always as whole seed if I can get it. I use my spice grinder nearly every time I cook.
+
+- Allspice
+- Ajwain
+- Mustard
+- Caraway
+- Celery
+- Coriander
+- Cumin
+- Fenugreek
+- Nutmeg
+- 
+
+### Ground Spices
+
+- Cinnamon
+- Nutmeg
+- Mace
+- Turmeric
+- Ginger
+- 
 
 Canned Goods
 ------------

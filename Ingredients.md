@@ -22,9 +22,13 @@ In the refrigerator
 
 - Butter
 
+- 
+
 - Cheddar — sharp white cheddars are my favorite
 
 - Feta
+
+- 
 
   Culantro or Cilantro
 
@@ -112,6 +116,7 @@ Canned Goods
 ------------
 
 - Coconut milk ("lite coconut milk" in the US) and cream ("coconut milk" in the US)
+- Evaporated milk
 - Broth, seldom used but a good rescue.
 
 Dry Goods

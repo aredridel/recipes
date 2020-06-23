@@ -24,8 +24,8 @@
 - [Lemon Feta Carrot Pasta Salad](Salads/Lemon Feta Carrot Pasta Salad.md)
 - [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md) with flavors of ginger and scallion
 - [Orzo Fruit Salad](Salads/Orzo Fruit Salad.md), a creamy sand sweet vegan pasta salad.
-- [Egg-Not! Salad](Salads/Egg Not Salad.md)
-- [Greek Salad](Salads/Greek Salad.md), one of my family's recipes growing up, with no pretenses of authenticity.
+- [Egg-Not! Salad](Salads/Egg Not Salad.md) tastes like the good parts of a vegetarian society potluck.
+- [Greek Salad](Salads/Greek Salad.md), one of my family's recipes growing up, with no pretenses of actual connection to Greek culture.
 - [Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md)
 
 ## Sauces

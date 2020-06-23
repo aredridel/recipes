@@ -23,7 +23,23 @@ In the refrigerator
 - Feta
 - Scallions
 - Culantro or Cilantro
-- 
+
+Seasonings
+----------
+
+- Bragg's Liquid Aminos
+
+  Shoyu
+
+- Tamari
+
+- Sichuan Chili Paste
+
+- Sriracha
+
+- Vinegars, red wine, white distilled, home fermented apple cider, white wine, coconut, and rice
+
+- plus any of a dozen hot sauces
 
 On the spice rack
 -----------------
@@ -48,7 +64,7 @@ On the spice rack
 - Lavender
 - Herbes de Provance as a blend
 
-### Seed Spices
+### Whole Spices
 
 Always as whole seed if I can get it. I use my spice grinder nearly every time I cook.
 
@@ -56,6 +72,7 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Ajwain
 - Caraway
 - Celery
+- Clove
 - Coriander
 - Cumin
 - Fenugreek
@@ -67,6 +84,7 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 ### Ground Spices
 
 - Cinnamon
+- Clove
 - Nutmeg
 - Mace
 - Turmeric

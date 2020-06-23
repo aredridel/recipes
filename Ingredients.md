@@ -195,3 +195,11 @@ Dry Goods
 - Baking soda
 - Citric acid
 
+In the freezer
+--------------
+
+- Shrimp
+- Fruit
+- Pesto
+- Lamb
+- Sausages

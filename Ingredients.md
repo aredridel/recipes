@@ -174,8 +174,9 @@ Dry Goods
 
 ### Others
 
-Sugar
+- Sugar
+- Brown sugar
+- Baking powder
+- Baking soda
+- Citric acid
 
-Brown sugar
-
-Baking powder

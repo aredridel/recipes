@@ -38,6 +38,7 @@ On the spice rack
 
 ### Herbs
 
+- Bay Leaf
 - Dill
 - Epazote
 - Thyme
@@ -60,7 +61,8 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Fenugreek
 - Mustard
 - Nutmeg
-- 
+- Peppercorns
+- Sichuan Peppercorns
 
 ### Ground Spices
 
@@ -82,8 +84,31 @@ Canned Fruits and Vegetables
 - Tomato paste, always several 6 ounce US cans on the shelf
 - Tomato puree
 
-Other Canned Goods
-------------------
+Canned Goods
+------------
 
 - Coconut milk ("lite coconut milk" in the US) and cream ("coconut milk" in the US)
 - Broth, seldom used but a good rescue.
+
+Dry Goods
+---------
+
+### Beans
+
+- Lima beans
+- Black beans
+- Pinto beans
+- Navy beans
+- Cranberry beans
+- Pink beans
+- Pigeon peas
+- Black eyed peas
+- Red lentils
+- Brown lentils
+- French lentils or Black lentils
+
+
+
+### Grains
+
+- Sooji (Cream of wheat / Farina)

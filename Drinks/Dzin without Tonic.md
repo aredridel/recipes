@@ -19,10 +19,6 @@ Put the spices in a spice-ball or tea-ball.
 
 Heat and simmer (not even boiling) for a couple hours. The liquid should be a mid amber. Bottle and store refrigerated.
 
-
-
 Yields about 250ml of liquid.
-
-
 
 Ideas I've not yet vetted but would make delicious changes to the boquet I think: Cardamom, Lavender, Rosemary, Fennel, Anise, Star Anise

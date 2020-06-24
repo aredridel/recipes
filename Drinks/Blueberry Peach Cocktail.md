@@ -6,6 +6,4 @@ Blueberry Peach Cocktail
 - Dash lavender bitters
 - 1 1/2 oz blueberry juice
 
-
-
 Shake, strain

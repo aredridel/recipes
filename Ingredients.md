@@ -213,7 +213,7 @@ In the freezer
 - Shrimp
 - Fruit
 - Pesto
-- 
+
 - Beef, ground
 - Lamb, ground
 - Sausages

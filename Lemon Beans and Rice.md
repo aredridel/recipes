@@ -15,16 +15,12 @@ Our household goes through several pounds of lemons each week, and dishes like t
 
 ## Sauce
 
-
-
 - 1 (small) can tomato paste
 - 3–4 cloves of garlic
 - 10g herbs — I use parsley and oregano
 - 50ml of olive oil (possibly more!)
 - splash of wine to deglaze, optional
 - salt
-
-
 
 The sauce is best made in advance — I think it's better cold than warm in this dish. It's my standard red sauce, able to be made in a hurry, but using some techniques for getting a rich, fully-cooked tomato flavor quickly. In other cases I'd add a bit of stock or other liquid to thin it out a bit but in this case the paste-like base state is even better.
 
@@ -61,11 +57,7 @@ Alternately, [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md) is deliciou
 
 - salt
 
-
-
-Cook white beans in advance — lima, fava, cannelini, even great northern. They'll end up mashed so the specifics aren't super important. Cook them to soft and set aside. The liquid can be drained.
-
-
+Cook the beans in advance — lima, fava, cannelini, even great northern. They'll end up mashed so the specifics aren't super important. Cook them to soft and set aside. The liquid can be drained.
 
 Toast cumin seed in a dry pan, then grind.
 

@@ -3,4 +3,5 @@ Peach thing
 
 - 1.5 shots amontillado
 - 1 shot mathilde peach
-- Juice of 1/3 lemon
+- Juice of <sup>1</sup>/<sub>3</sub> lemon
+

@@ -3,8 +3,6 @@ Dzin without Tonic
 
 This is a syrup with many of the flavors of gin. Mixed with seltzer and a squeeze of lime, it makes a virgin gin and tonic. The pith of the citrus rind adds some of the bitter flavor. Of course if you have quinine, that'd work too.
 
-
-
 - 200g sugar
 - 500ml water
 - 50g whole juniper berries
@@ -15,14 +13,9 @@ This is a syrup with many of the flavors of gin. Mixed with seltzer and a squeez
 - pinch of Marjoram
 - 3 bay leaves
 - dash of mace
-
-Grapefruit or lemon rind, heavy on the pith, or quinine.
-
-
+- Grapefruit or lemon rind, heavy on the pith, or quinine.
 
 Put the spices in a spice-ball or tea-ball.
-
-
 
 Heat and simmer (not even boiling) for a couple hours. The liquid should be a mid amber. Bottle and store refrigerated.
 

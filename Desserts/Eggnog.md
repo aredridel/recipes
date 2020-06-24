@@ -5,22 +5,12 @@ My dad made this eggnog while I was growing up. I can't stand store-bought eggno
 
 It's best served in 200ml servings or so and best served cold, and thinned with milk to taste. I prefer it on the thicker side.
 
-
-
-12 egg yolks
-
-1 l cream
-
-200g sugar
-
-half a nutmeg, grated
-
-a cinnamon stick
-
-40ml vanilla extract
-
-2g clove
-
-
+- 12 egg yolks
+- 1 l cream
+- 200g sugar
+- half a nutmeg, grated
+- a cinnamon stick
+- 40ml vanilla extract
+- 2g clove
 
 Cook at 72 °C for one hour. Remove the cinnamon stick unless it's true cinnamon, not cassia. Chill and serve.

@@ -108,6 +108,10 @@ ol {
   padding-left: 2ch;
 }
 
+p > img {
+  display: block;
+}
+
 ul > li,
 ol > li {
   margin-left: 3ch;

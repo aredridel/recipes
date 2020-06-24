@@ -4,23 +4,15 @@ Peach Custard Pie
 Crust
 -----
 
-150g flour
-
-10g sugar
-
-4g salt
-
-100g butter
-
-50ml cream
-
-
+- 150g flour
+- 10g sugar
+- 4g salt
+- 100g butter
+- 50ml cream
 
 Preheat oven to 220 °C (425 °F)
 
 Mix flour, sugar, salt and butter with a fork. When the butter is in small pieces, add the cream. Squeeze it in handfuls briefly, then press into a glass pie pan making a uniform layer.
-
-
 
 Bake for 10 to 15 minutes, until lightly browned.
 

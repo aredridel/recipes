@@ -14,7 +14,6 @@ Dressing
 - 1 lemon, pureed
 - 10g salt
 - 100 ml mayonaise 
-- 
 
 Mix.
 

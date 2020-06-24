@@ -17,7 +17,9 @@ Simmer at low heat for a few minutes. Don't scorch.
 
 Cool to room temperature
 
-Form patties 1/2 inch thick. Bake at 350 °F for 20 minutes, turn over, bake 20 minutes.
+Form patties 1/2 inch thick. 
+
+Bake at 350 °F for 20 minutes, turn over, bake 20 minutes.
 
 
 

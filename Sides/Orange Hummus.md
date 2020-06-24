@@ -1,5 +1,5 @@
 - 1 <sup>1</sup>⁄<sub>2</sub> cups chickpeas
-- <sup>1</sup>⁄<sub>4</sub> to 1/2 teaspoon each of
+- <sup>1</sup>⁄<sub>4</sub> to <sup>1</sup>⁄<sub>2</sub> teaspoon each of
   - ground cumin
   - ground coriander
   - ground ginger

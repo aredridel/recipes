@@ -2,7 +2,7 @@ Blueberry Peach Cocktail
 ========================
 
 - 1 oz peach Brandy
-- 1/2 oz triple Sec
+- <sup>1</sup>⁄<sub>2</sub> oz triple Sec
 - Dash lavender bitters
 - 1 1/2 oz blueberry juice
 

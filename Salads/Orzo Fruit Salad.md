@@ -18,8 +18,6 @@ Salad
 
 Cook the pasta to al dente, drain, rinse in cold water and drain again.  Mix in the other ingredients.
 
-
-
 Dressing
 --------
 
@@ -31,7 +29,5 @@ Dressing
 - a pinch of salt
 
 Blend in a blender until smooth.
-
-
 
 Mix with the salad and chill.

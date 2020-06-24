@@ -8,7 +8,7 @@ Makes a fantastic sauce for pork if you mix 250ml cranberry sauce, 250ml chicken
 - Juice of three oranges
 - zest of two oranges
 - A thumb sized amount of fresh ginger, grated as finely as possible.
-- 1.5 US packages of fresh cranberries
+- 1 <sup>1</sup>⁄<sub>2 </sub>US packages of fresh cranberries
 - 50g sugar
 - 2g salt
 

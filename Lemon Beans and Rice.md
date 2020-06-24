@@ -17,17 +17,12 @@ Our household goes through several pounds of lemons each week, and dishes like t
 
 
 
-1 (small) can tomato paste
-
-3–4 cloves of garlic
-
-10g herbs — I use parsley and oregano
-
-50ml of olive oil (possibly more!)
-
-splash of wine to deglaze, optional
-
-salt
+- 1 (small) can tomato paste
+- 3–4 cloves of garlic
+- 10g herbs — I use parsley and oregano
+- 50ml of olive oil (possibly more!)
+- splash of wine to deglaze, optional
+- salt
 
 
 
@@ -38,7 +33,6 @@ Fry several cloves of sliced garlic and a small can of tomato paste in olive oil
 ## Rice
 
 - 500ml water
-
 - 250g white rice
 
 - 4 bay leaves

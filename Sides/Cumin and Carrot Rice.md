@@ -1,22 +1,13 @@
 # Cumin and Carrot Rice
 
-1 small onion or a shallot
-
-3 cloves garlic
-
-30 g cumin seed
-
-150g carrot
-
-5 g salt
-
-30 ml olive oil
-
-140 g white rice
-
-500 ml water
-
-
+- 1 small onion or a shallot
+- 3 cloves garlic
+- 30 g cumin seed
+- 150g carrot
+- 5 g salt
+- 30 ml olive oil
+- 140 g white rice
+- 500 ml water
 
 Grate the carrot.
 

@@ -72,7 +72,6 @@ I should probably also keep dried shrimp and bonito flakes handy to make dashi, 
 - white wine
 - coconut
 - rice
-- 
 
 On the spice rack
 -----------------
@@ -142,7 +141,6 @@ Always as whole seed if I can get it. I use my spice grinder nearly every time I
 - Mace
 - Turmeric
 - Ginger
-- 
 
 Canned Fruits and Vegetables
 ----------------------------

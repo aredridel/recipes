@@ -5,25 +5,16 @@ This is a syrup with many of the flavors of gin. Mixed with seltzer and a squeez
 
 
 
-200g sugar
-
-500ml water
-
-50g whole juniper berries
-
-4–5 whole allspice berries
-
-8–10 whole black peppercorns
-
-10g ajwain seeds
-
-10g coriander seeds
-
-pinch of Marjoram
-
-3 bay leaves
-
-dash of mace
+- 200g sugar
+- 500ml water
+- 50g whole juniper berries
+- 4–5 whole allspice berries
+- 8–10 whole black peppercorns
+- 10g ajwain seeds
+- 10g coriander seeds
+- pinch of Marjoram
+- 3 bay leaves
+- dash of mace
 
 Grapefruit or lemon rind, heavy on the pith, or quinine.
 

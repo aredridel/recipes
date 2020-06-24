@@ -2,8 +2,8 @@ Hummus
 ======
 
 - 2 cups of cooked chickpeas
-- 1/4 cup aqua faba or water
-- 1/4 cup lemon juice
+- <sup>1</sup>⁄<sub>4</sub> cup aqua faba or water
+- <sup>1</sup>⁄<sub>4</sub> cup lemon juice
 - 2 cloves of garlic, finely minced
 - 1 teaspoon salt
 - 3 tablespoons tahini

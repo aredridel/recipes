@@ -28,7 +28,7 @@ Salad
 
 - 2 bunches of radishes (about 15)
 - 2 scallions, chiffonade
-- 1/2 cup slivered almonds
+- <sup>1</sup>⁄<sub>2</sub> cup slivered almonds
 - Rice, above
 
 Toast the almonds in a pan. Slice the radishes thin. Mix into the rice and serve.

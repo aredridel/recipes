@@ -1,15 +1,15 @@
 # Sunburgers
 
 - 3 cups water
-- 1/4 cup soy sauce
+- <sup>1</sup>⁄<sub>4</sub> cup soy sauce
 - 3 teaspoons vegetable oil
-- 1 onion chopped or 1/8 cup dry onion flakes or 2 teaspoons onion powder
-- 1/4 teaspoon garlic powder
+- 1 onion chopped or <sup>1</sup>⁄<sub>8</sub> cup dry onion flakes or 2 teaspoons onion powder
+- <sup>1</sup>⁄<sub>4</sub> teaspoon garlic powder
 - 1 teaspoon thyme
-- 1/4 teaspoon liquid smoke
-- 1/4 cup sunflower seeds
+- <sup>1</sup>⁄<sub>4</sub> teaspoon liquid smoke
+- <sup>1</sup>⁄<sub>4</sub> cup sunflower seeds
 - 3 cups regular oats
-- 1/2 cup nutritional yeast
+- <sup>1</sup>⁄<sub>2</sub> cup nutritional yeast
 
 Bring all ingredients except oats to a boil. Add oats slowly, stirring constantly and gently until mixed.
 

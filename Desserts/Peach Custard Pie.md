@@ -19,19 +19,12 @@ Bake for 10 to 15 minutes, until lightly browned.
 Filling
 -------
 
-75g butter, melted
-
-1 egg
-
-40g flour, ground almonds plus a bit of almond flavoring is a nice amendment
-
-100g sugar
-
-4ml vanilla extract
-
-4g salt
-
-
+- 75g butter, melted
+- 1 egg
+- 40g flour, ground almonds plus a bit of almond flavoring is a nice amendment
+- 100g sugar
+- 4ml vanilla extract
+- 4g salt
 
 Mix the butter, egg, flour, sugar, vanilla and salt well.
 
@@ -39,9 +32,7 @@ Mix the butter, egg, flour, sugar, vanilla and salt well.
 
 ## Assembly
 
-800g peaches (canned are great)
-
-
+- 800g peaches (canned are great)
 
 Arrange the peaches in the crust, then scrape the custard filling over them (do not spread or smooth, just dump it in the middle).
 

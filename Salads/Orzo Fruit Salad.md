@@ -21,11 +21,11 @@ Cook the pasta to al dente, drain, rinse in cold water and drain again.  Mix in 
 Dressing
 --------
 
-- 5 ounches (1/2 box) silken tofu
+- 5 ounches (<sup>1</sup>⁄<sub>2</sub> box) silken tofu
 - 2 tablespoons sugar
 - 2 tablespoons pineapple juice
-- 1/2 teaspoon vanilla
-- 1/4 teaspoon lemon juice
+- <sup>1</sup>⁄<sub>2</sub> teaspoon vanilla
+- <sup>1</sup>⁄<sub>4</sub> teaspoon lemon juice
 - a pinch of salt
 
 Blend in a blender until smooth.

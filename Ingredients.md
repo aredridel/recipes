@@ -58,7 +58,7 @@ I should probably also keep dried shrimp and bonito flakes handy to make dashi, 
 
 - Oyster sauce
 
-Mojo criollo
+- Mojo criollo
 
 - Sichuan Chili Paste
 - Sriracha

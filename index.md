@@ -61,6 +61,8 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 - [Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a
   virgin gin and tonic like drink
 
+- [Coffee and Cough Drop](Drinks/Coffee and Cough Drop.md), weird but good
+
 - [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and
   Greek Mastiha liquor.
 

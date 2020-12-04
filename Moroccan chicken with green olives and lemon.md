@@ -8,9 +8,9 @@ This is basically a tajine, only sized for American ingredients and cookware.
 - 20ml olive oil
 - 1 large onion, halved & sliced thin
 - 4-5 garlic cloves, minced
-- 20g paprika, ground
-- 20g cumin, toasted and ground
-- 10g cinnamon, ground
+- 5g paprika, ground
+- 5g cumin, toasted and ground
+- 3g cinnamon, ground
 - 40g ginger, grated or minced
 - 500ml broth, preferably chicken
 - 2kg chicken thighs, skin removed.

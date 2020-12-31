@@ -1,6 +1,7 @@
 ---
 plugins:
   - jemoji
+  - jekyll-remote-theme
 repository: aredridel/recipes
 beacon: true
 remote_theme: aredridel/jekyll-fictive

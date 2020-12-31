@@ -1,6 +1,7 @@
 ---
 plugins:
   - jemoji
+  - jekyll-relative-links
   - jekyll-remote-theme
 fictive:
   beacon: true

@@ -2,6 +2,7 @@
 plugins:
   - jemoji
 repository: aredridel/recipes
+beacon: true
 defaults:
   -
     scope:

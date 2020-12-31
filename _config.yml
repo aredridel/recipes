@@ -3,4 +3,4 @@ plugins:
   - jemoji
   - jekyll-remote-theme
 beacon: true
-remote_theme: aredridel/jekyll-fictive
+remote_theme: aredridel/fictive-jekyll

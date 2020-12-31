@@ -2,7 +2,7 @@
 plugins:
   - jemoji
   - jekyll-remote-theme
-theme:
+fictive:
   beacon: true
 remote_theme: aredridel/fictive-jekyll
 defaults:

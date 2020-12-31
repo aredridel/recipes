@@ -10,9 +10,9 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 
 ## Mains
 
-- [Lemon Beans and Rice](Lemon Beans and Rice.md), a rich take on ful madamus
+- [Lemon Beans and Rice](Mains/Lemon Beans and Rice.md), a rich take on ful madamus
 
-- [Sunburgers](Sunburgers.md), a vegan burger made from oats and sunflower seeds
+- [Sunburgers](Mains/Sunburgers.md), a vegan burger made from oats and sunflower seeds
 
 - [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
 

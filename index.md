@@ -11,13 +11,11 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 ## Mains
 
 - [Lemon Beans and Rice](Mains/Lemon Beans and Rice.md), a rich take on ful madamus
-
 - [Sunburgers](Mains/Sunburgers.md), a vegan burger made from oats and sunflower seeds
-
 - [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
-
 - [Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with green olives and lemon.md) tajine for European style cookware.
 - [Lemon gravy chicken](Mains/Lemon Gravy Chicken.md) a simplified variation for a restricted diet.
+- [Chicken, Mushroom and Rice Soup](Mains/Chicken-Mushroom-Rice-Soup.md)
 
 ## Sides
 

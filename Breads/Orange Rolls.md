@@ -25,23 +25,23 @@ activate the yeast in warm water. Skip activating and just mix if using instant 
 
 mix 8 minutes kitchenaid speed 2. It will be a very sticky dough, and not pull away from the sides of the bowl cleanly. 
 
-Bulk ferment 45 minutes to 1 hour.
+Bulk ferment 45 minutes to 1 hour. Knead briefly on a floured surface.
 
-Roll half out into an approximately 9 inch by 13 inch sheet on a floured work surfce or parchment, squaring the ends as best you can so it will make an even roll.
+Roll half out into an approximately 9 inch wide sheet, as long as you can make it on a floured work surface or parchment, squaring the ends as best you can so it will make an even roll.
 
-_measurements are approximate from this point_
+- 75 g brown sugar
 
-- 50 g brown sugar
+Coat the sheet with brown sugar and roll tightly. Cut the log in thirds, then thirds again. 
 
-Coat the sheet with brown sugar and roll tightly. Cut log in thirds, then thirds again. 
-
-Put 9 2 g slices of butter in the bottom of an 8 inch by 8 inch pan, in a 3 x 3 grid. Place a section of the log spiral side up on each slice. 
+Put 3 g slices of butter in the bottom of an 8 inch by 8 inch pan, in a 3 x 3 grid. Place a section of the log spiral side up on each slice. 
 
 Repeat for the second half.
 
-Refrigerate overnight. Let them warm and finish rising, preferably to approximately double. 
+Refrigerate covered overnight. Let them warm and finish rising, preferably to approximately double. 
 
-Add a pat of butter to the top of each roll, cover loosely with aluminum foil. 
+Add a thin slice of butter to the top of each roll, cover loosely with aluminum foil. 
+
+_measurements are approximate from this point_
 
 Bake at 350 °F for 25-40 minutes, until the center is fully cooked. 
 

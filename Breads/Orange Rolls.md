@@ -6,6 +6,7 @@ Makes 2 8 inch by 8 inch pans of rolls.
 - 70 g molasses
 - 10 g salt
 - 150 g wheat flour
+- zest of 2 oranges, chopped fine
 - ginger
 - cinnamon
 - nutmeg

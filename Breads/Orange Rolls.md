@@ -5,7 +5,7 @@ Makes 2 8 inch by 8 inch pans of rolls.
 - 500 ml water
 - 70 g molasses
 - 10 g salt
-- 150 g wheat flour
+- 150 g whole wheat flour
 - zest of 2 oranges, chopped fine
 - ginger
 - cinnamon
@@ -20,7 +20,7 @@ Tongzhang - boil until thickened, stirring frequently. It will make a thick past
 
 activate the yeast in warm water. Skip activating and just mix if using instant yeast.
 
-- 100 g wheat flour
+- 100 g whole wheat flour
 - 400 g strong bread flour
 
 mix 8 minutes kitchenaid speed 2. It will be a very sticky dough, and not pull away from the sides of the bowl cleanly. 

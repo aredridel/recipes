@@ -35,13 +35,17 @@ _measurements are approximate from this point_
 
 Coat the sheet with brown sugar and roll tightly. Cut log in thirds, then thirds again. 
 
-Put 9 2 g slices of butter in the bottom of an 8 inch by 8 inch pan, in a 3 x 3 grid. Place a section of the log spiral side up on each slice. Refrigerate overnight. Let them warm and finish rising, preferably to approximately double. 
+Put 9 2 g slices of butter in the bottom of an 8 inch by 8 inch pan, in a 3 x 3 grid. Place a section of the log spiral side up on each slice. 
 
-Heat oven to 350 °F. 
+Repeat for the second half.
+
+Refrigerate overnight. Let them warm and finish rising, preferably to approximately double. 
 
 Add a pat of butter to the top of each roll, cover loosely with aluminum foil. 
 
-Bake 25-40 minutes, until the center is fully cooked. Remove the foil and give it just a few minutes more. Let rest a few minutes before devouring like a pack of hungry orangutans.
+Bake at 350 °F for 25-40 minutes, until the center is fully cooked. 
+
+Remove the foil and give it just a few minutes more. Let them rest a few minutes before devouring like a pack of hungry orangutans.
 
 
 

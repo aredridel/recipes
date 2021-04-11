@@ -2,7 +2,7 @@
 
 Makes two 20 cm by 20 cm (8 inch) pans of rolls.
 
-Remove the zest from two oranges (I use a vegetable peeler then chop with a knife — a little pith won't hurt, and the thicker zest will be softened by the pre-coo. 
+Remove the zest from two oranges (I use a vegetable peeler then chop with a knife — a little pith won't hurt, and the thicker zest will be softened by the pre-cooking)
 		
 Mix
 

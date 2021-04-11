@@ -12,7 +12,7 @@ Makes 2 8 inch by 8 inch pans of rolls.
 - nutmeg
 - clove
 
-Tongzhang - boil until thickened, stirring frequently. It will make a thick paste. Let it cool.
+Tongzhang - boil until thickened, stirring frequently. It will make a thick paste. Let it cool. It will smell amazing and make everyone wonder what you're making.
 
 - 150 ml warm water
 - 5 g sugar

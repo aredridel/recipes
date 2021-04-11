@@ -2,19 +2,21 @@
 
 Makes two 20 cm by 20 cm (8 inch) pans of rolls.
 
+Remove the zest from two oranges (I use a vegetable peeler then chop with a knife — a little pith won't hurt, and the thicker zest will be softened by the pre-coo. 
+		
 Mix
 
 - 500 ml water
 - 70 g molasses
 - 10 g salt
 - 150 g whole wheat flour
-- zest of 2 oranges, chopped fine
+- orange zest 
 - ginger
 - cinnamon
 - nutmeg
 - clove
 
-Tangzhong — whisk the ingredients and boil until thickened, stirring frequently. It will make a thick paste. Let it cool. It will smell amazing and make everyone wonder what you're making. The orange zest gets a bit of time to soften here too as a bonus. My preference for the spices is to add just a touch of each except clove, which complements the orange nicely.
+Tangzhong — whisk the ingredients and boil until thickened, stirring frequently. It will make a thick paste. Let it cool. It will smell amazing and make everyone wonder what you're making. The orange zest gets a bit of time to soften here too as a bonus. My preference for the spices is to add just a touch of each except clove, and let the clove dominate, which complements the orange nicely.
 
 Separately, mix
 
@@ -56,3 +58,4 @@ Remove the foil and give it just a few minutes more. Let them rest a few minutes
 - 100g brown sugar in the center, to be actually gooey
 - A bit more flour and a bit more kneading to get a higher rise.
 - Apricot filling
+- Coriander for spice

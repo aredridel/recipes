@@ -45,7 +45,7 @@ Bake at 350 °F for 30-40 minutes, until the center is fully cooked.
 
 Remove the foil and give it just a few minutes more. Let them rest a few minutes before devouring like a pack of hungry orangutans.
 
-_amendments to be tested_
+## amendments to be tested
 
 - Apricot filling
 - 100g brown sugar in the center, to be actually gooey

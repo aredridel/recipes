@@ -41,11 +41,14 @@ Refrigerate covered overnight. Let them warm and finish rising, preferably to ap
 
 Add a thin slice of butter to the top of each roll, cover loosely with aluminum foil. 
 
-_measurements are approximate from this point_
-
-Bake at 350 °F for 25-40 minutes, until the center is fully cooked. 
+Bake at 350 °F for 30-40 minutes, until the center is fully cooked. 
 
 Remove the foil and give it just a few minutes more. Let them rest a few minutes before devouring like a pack of hungry orangutans.
 
+_amendments to be tested_
+
+- Apricot filling
+- 100g brown sugar in the center, to be actually gooey
+- A bit more flour and a bit more kneading to get a higher rise.
 
 

@@ -31,7 +31,7 @@ Combine the above in the mixer bowl and add
 - 150 g whole wheat flour
 - 500 g strong bread flour
 
-Mix for 8-10 minutes. I use my KitchenAid mixer's speed 2. It will be a sticky dough, and not pull away from the sides of the bowl cleanly. 
+Mix for 8-10 minutes. I use my KitchenAid mixer's speed 2. It will be a sticky dough, but just barely pull away from the sides of the bowl cleanly. 
 
 Bulk ferment for 45 minutes to 1 hour. Knead briefly on a floured surface. Let rest for five minutes to let the gluten relax.
 

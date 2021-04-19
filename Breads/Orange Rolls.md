@@ -55,7 +55,5 @@ Remove the foil and give it just a few minutes more. Let them rest a few minutes
 
 ## amendments to be tested
 
-- 100g brown sugar in the center, to be actually gooey
-- A bit more flour and a bit more kneading to get a higher rise.
 - Apricot filling
 - Coriander for spice

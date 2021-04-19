@@ -37,7 +37,7 @@ Bulk ferment for 45 minutes to 1 hour. Knead briefly on a floured surface. Let r
 
 Roll half out into an approximately 18 cm (or 9 inch, an easily divisible number) wide sheet, as long as you can make it on a floured work surface or parchment, squaring the ends as best you can so it will make an even roll.
 
-- 75 g brown sugar
+- 100 g brown sugar
 
 Coat the sheet with brown sugar and roll tightly. Cut the log in thirds, then thirds again. 
 

@@ -5,7 +5,7 @@ For each waffle:
 - 1/4 cup corn masa flour (not cornmeal, not corn starch)
 - 1/2 cup gluten free flour mix (Bob's Red Mill '1 for 1' is what I use)
 - 1 tablespoon brown sugar
-- 2/3 cup milk
+- 1/2 cup milk
 - 1 teaspoon baking powder
 - 1/2 teaspoon salt (diamond crystal kosher salt, subtract 30% for table or morton's kosher)
 - 1/2 can corn kernels, or the kernels from 2 ears of corns, cooked. (Leftover grilled corn makes this a winner)

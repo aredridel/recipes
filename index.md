@@ -23,6 +23,7 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 - [Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md)
 - [Hummus](Sides/Hummus.md)
 - [Orange Hummus](Sides/Orange Hummus.md)
+- [Corn Waffles](Sides/Corn Waffles.md) — Gluten free
 
 ## Salads
 

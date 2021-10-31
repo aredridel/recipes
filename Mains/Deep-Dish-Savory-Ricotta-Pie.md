@@ -10,9 +10,9 @@ Caramelize 2 onions, zucchini, or a combination. Layer it on top of the dough.
 
 Mix 500g ricotta cheese, 3-4 cloves of garlic chopped fine, a teaspoon of salt, and 2 large eggs. Layer it on top with a spoon and spread it all the way to the edge.
 
-Shred 250g mozarella cheese. Sprinkle it on top.
+Shred 150g mozarella cheese. Sprinkle it on top.
 
-Bake uncovered for 30-40 minutes, until the ricotta is set.
+Bake uncovered for 30-40 minutes, until the ricotta is set & the mozarella is well browned.
 
 Serve warm. Makes an excellent breakfast.
 

@@ -12,7 +12,7 @@ Mix 500g ricotta cheese, 3-4 cloves of garlic chopped fine, a teaspoon of salt, 
 
 Shred 150g mozarella cheese. Sprinkle it on top.
 
-Bake uncovered for 30-40 minutes, until the ricotta is set & the mozarella is well browned.
+Bake uncovered for 30-40 minutes, until the ricotta is set & the mozarella is well browned, maybe even getting crispy at the edges where it meets any oil.
 
 Serve warm. Makes an excellent breakfast.
 

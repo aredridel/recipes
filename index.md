@@ -16,6 +16,7 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 - [Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with green olives and lemon.md) tajine for European style cookware.
 - [Lemon gravy chicken](Mains/Lemon Gravy Chicken.md) a simplified variation for a restricted diet.
 - [Chicken, Mushroom and Rice Soup](Mains/Chicken-Mushroom-Rice-Soup.md)
+- [Deep Dish Savory Ricotta Pie](./Mains/)
 
 ## Sides
 

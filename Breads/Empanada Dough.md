@@ -5,9 +5,9 @@ This is also a great alternative to struggling with French pie crust for a quick
 
 Plus, this recipe also makes great empanadas.
 
-- 125g flour
+- 125g flour (roughly one US cup)
 - 5g salt
-- 100g butter
+- 100g butter (7/8 of one US stick)
 - 80ml water, boiling
 
 Mix flour, salt and butter freely with a powered mixer until the butter is broken into pea sized pieces.

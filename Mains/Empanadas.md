@@ -43,7 +43,7 @@ Finely mince the dill and parsley.
 
 Toss until mixed.
 
-## Mushroom and onion empanadas
+## Mushroom and onion filling
 
 - 1 large portabello mushroom
 - 1 small onion
@@ -53,7 +53,6 @@ Toss until mixed.
 - oil for the pan
 
 Chop the onion and mushroom finely. Sauteé until the onions are fully translucent and the mushrooms soft. Add a bit of flour and toss it around to absorb any moisture.
-
 
 
 ## Assembly
@@ -79,4 +78,3 @@ Place a tablespoon of filling in the center of the dough circle in an oblong blo
 ## Bake
 
 Bake at 400 °F until lightly browned. Make sure the bottoms are done. If not, turn them over and bake for a few minutes more.
-

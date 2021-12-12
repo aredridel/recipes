@@ -61,6 +61,11 @@ Roll the dough out thin (2mm thick or so) on just as much flour as needed. Cut w
 
 Make a different folding pattern for each kind of empanada.
 
-Round: Place a circle of dough on the work surface. Put a blob of filling in the center, reaching 1cm from the edges. Put another circle on top. Crimp with a fork, and place on a non-insulated baking sheet.
+### Round 
 
-Side crimped half moons: Put a table spoon of filling or so (sized as appropriate for your dough circles) on the circle
+Place a circle of dough on the work surface. Put a blob of filling in the center, reaching 1cm from the edges. Put another circle on top. Crimp with a fork, and place on a non-insulated baking sheet.
+
+
+### Side crimped half moons
+
+Put a table spoon of filling or so (sized as appropriate for your dough circles) on the circle, a bit closer to one edge and not filling more than half the circle, staying 1cm away from the close edge. Starting from that edge, pick up the edge and flop it over. Counterintuitively, you start with the full edge and _roll_ the filling and dough over into place, not lifting the empty flap. Crimp with a fork.

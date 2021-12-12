@@ -9,8 +9,9 @@ Uses two recipes of dough.
 - 500g ground beef
 - 100g raisins and/or sultanas
 - 1-2g ground cloves
-- 3g garlic powder
 - 1-2g ground nutmeg
+- 1-2g ground allspice
+- 3g garlic powder
 - 3g thyme
 - 10g salt
 - a spoonful of flour

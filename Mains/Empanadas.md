@@ -42,6 +42,16 @@ Finely mince the dill and parsley.
 
 Toss until mixed.
 
+## Mushroom and onion empanadas
+
+- 1 large portabello mushroom
+- 1 small onion
+- thyme
+- salt
+- a bit of flour
+- oil for the pan
+
+Chop the onion and mushroom finely. Sauteé until the onions are fully translucent and the mushrooms soft. Add a bit of flour and toss it around to absorb any moisture.
 
 
 

@@ -45,6 +45,8 @@ Toss until mixed.
 
 ## Mushroom and onion filling
 
+Uses one recipe of dough
+
 - 1 large portabello mushroom
 - 1 small onion
 - thyme

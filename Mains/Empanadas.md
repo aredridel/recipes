@@ -1,6 +1,6 @@
 # Empanadas
 
-These empanadas use a [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving and can be re-rolled quite a fwe times without becoming too tough. Way easier than cold water pastry.
+These empanadas use a [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving and can be re-rolled quite a few times without becoming too tough. Way easier than cold water pastry.
 
 ## Beef and Raisin filling
 

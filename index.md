@@ -12,6 +12,8 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 
 [Lemon Beans and Rice](Mains/Lemon Beans and Rice.md), a rich take on ful madamus
 
+[Empanadas](Mains/Empanadas.md), tasty hand pies that keep well for days
+
 [Sunburgers](Mains/Sunburgers.md), a vegan burger made from oats and sunflower seeds
 
 [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)

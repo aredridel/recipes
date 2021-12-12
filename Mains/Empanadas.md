@@ -1,6 +1,10 @@
 # Empanadas
 
+These empanadas use a [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving and can be re-rolled quite a fwe times without becoming too tough. Way easier than cold water pastry.
+
 ## Beef and Raisin filling
+
+Uses two recipes of dough.
 
 - 500g ground beef
 - 100g raisins and/or sultanas
@@ -20,6 +24,8 @@ Add the spoonful of flour and coat everything, stirring so the flour absorbs the
 
 ## Egg and Artichoke filling
 
+Uses two recipes of dough.
+
 - 2 or 3 hard boiled eggs
 - 1 can artichoke hearts (not marinated) or hearts of palm
 - 5-6 sprigs of fresh dill
@@ -35,5 +41,8 @@ Shred the cheese.
 Finely mince the dill and parsley.
 
 Toss until mixed.
+
+
+
 
 

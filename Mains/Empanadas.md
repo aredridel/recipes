@@ -69,3 +69,11 @@ Place a circle of dough on the work surface. Put a blob of filling in the center
 ### Side crimped half moons
 
 Put a table spoon of filling or so (sized as appropriate for your dough circles) on the circle, a bit closer to one edge and not filling more than half the circle, staying 1cm away from the close edge. Starting from that edge, pick up the edge and flop it over. Counterintuitively, you start with the full edge and _roll_ the filling and dough over into place, not lifting the empty flap. Crimp with a fork and place on a non-insulated baking sheet. 
+
+### 
+
+
+## Bake
+
+Bake at 400 °F until lightly browned. Make sure the bottoms are done. If not, turn them over and bake for a few minutes more.
+

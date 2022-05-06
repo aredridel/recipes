@@ -13,7 +13,7 @@ Dressing
 --------
 
 - 200ml mayonaise 
-- 100ml of the [sauce from this recipe](../Lemon Beans and Rice.md)
+- 100ml of the [sauce from this recipe](../Mains/Lemon Beans and Rice.md)
 
 Mix.
 

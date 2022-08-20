@@ -84,6 +84,9 @@ virgin gin and tonic like drink
 [Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
 flavor.
 
+[Rhubarb Syrup](Drinks/Rhubarb Syrup.md), goes great when making those early
+summer pies.
+
 ### Drinks
 
 [Apple Amontillado](Drinks/Apple Amontillado.md)

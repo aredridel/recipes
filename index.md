@@ -88,7 +88,7 @@ flavor.
 
 [Apple Amontillado](Drinks/Apple Amontillado.md)
 
-[Blue Thing](Drinks/Blue Thing.md) for Danielle.
+[Blue Thing](Drinks/Blue Thing.md) for [Danielle](https://www.twitter.com/quephird).
 
 [Blueberry Peach Cocktail](Drinks/Blueberry Peach Cocktail.md)
 

@@ -122,3 +122,5 @@ mastiha liquor.
 
 [Eggnog](Desserts/Eggnog.md)
 
+[Rhubarb Custard Tart](Desserts/Rhubarb Cream Tart.md)
+

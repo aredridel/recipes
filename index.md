@@ -78,6 +78,11 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 	
 ### Ingredients
 
+[Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
+flavor.
+
+### Drinks
+
 [Apple Amontillado](Drinks/Apple Amontillado.md)
 
 [Blue Thing](Drinks/Blue Thing.md)
@@ -88,9 +93,6 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 virgin gin and tonic like drink
 
 [Coffee and Cough Drop](Drinks/Coffee and Cough Drop.md), weird but good
-
-[Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
-flavor.
 
 [Melon Lime Fizz](Drinks/Melon Lime Fizz.md), a refreshing summer cocktail.
 

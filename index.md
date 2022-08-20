@@ -97,7 +97,7 @@ flavor.
 [Melon Lime Fizz](Drinks/Melon Lime Fizz.md), a refreshing summer cocktail.
 
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and
-Greek Mastiha liquor.
+mastiha liquor.
 
 [Orange Coconut Creamsicle](Drinks/Orange Coconut Creamsicle.md)
 

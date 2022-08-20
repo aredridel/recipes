@@ -90,6 +90,8 @@ virgin gin and tonic like drink
 [Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
 flavor.
 
+[Melon Lime Fizz](Drinks/Melon Lime Fizz.md), a refreshing summer cocktail.
+
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and
 Greek Mastiha liquor.
 

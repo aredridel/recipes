@@ -87,6 +87,9 @@ virgin gin and tonic like drink
 
 [Coffee and Cough Drop](Drinks/Coffee and Cough Drop.md), weird but good
 
+[Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
+flavor.
+
 [Mediterranean Gulf](Drinks/Mediterranean Gulf.md), using both tequila and
 Greek Mastiha liquor.
 

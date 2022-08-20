@@ -74,7 +74,7 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 
 [Orange Rolls](Breads/Orange Rolls.md), move over Cinnamon Rolls. (And healthier too)
 
-## Cocktails
+## Cocktails & Ingredients
 
 [Apple Amontillado](Drinks/Apple Amontillado.md)
 

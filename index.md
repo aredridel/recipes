@@ -78,6 +78,9 @@ In addition, I'm used to cooking for dietary restrictions — I'm married to som
 	
 ### Ingredients
 
+[Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a
+virgin gin and tonic like drink
+
 [Melon Syrup](Drinks/Melon Syrup.md), using waste parts of a rockmelon for
 flavor.
 
@@ -88,9 +91,6 @@ flavor.
 [Blue Thing](Drinks/Blue Thing.md)
 
 [Blueberry Peach Cocktail](Drinks/Blueberry Peach Cocktail.md)
-
-[Dzin without Tonic](Drinks/Dzin without Tonic.md), a syrup for making a
-virgin gin and tonic like drink
 
 [Coffee and Cough Drop](Drinks/Coffee and Cough Drop.md), weird but good
 

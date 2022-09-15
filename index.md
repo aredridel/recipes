@@ -6,6 +6,8 @@ I grew up vegetarian, so there's a lot of meatless or meat-optional meals here. 
 
 I'm a huge fan of [Salt Fat Acid Heat](https://www.saltfatacidheat.com/) as a theory of cooking, and in general like Samin Nosrat's down-to-earth approach to food. Much of what I cook would make sense in that context. There will be an inordinate number of dishes containing lemon, as it's one of my favorite flavors, and a near-instant source of delicious acidity for foods. I use a lot of spices — I buy in bulk and use them up before they go stale, so there are amounts that many white people in the US would be surprised by and anyone in another century would be ill at ease to afford. I'm a fan of the [theory of spices](https://epicesdecru.com/products/livres/the-golden-rules-of-spices) that [Epices de Cru](https://epicesdecru.com/) advances too. 
 
+I've collected a longer list of [resources and techniques](resources.md) as well.
+
 In addition, I'm used to cooking for dietary restrictions — I'm married to someone with some health issues that diet helps, and my vegetarian upbringing means I'm used to substituting even for very central parts of recipes. You may be interested in the list of [ingredients I keep on hand](Ingredients.md), as I think it both shows the philosophy I have with cooking a bit and paints a picture of how I cook.
 
 ## Mains

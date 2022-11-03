@@ -93,6 +93,8 @@ with no pretenses of actual connection to Greek culture.
 
 [Cranberry Orange Sauce](Sauces & Dressings/Cranberry Orange Sauce.md)
 
+[Pico de Gallo](Sauces & Dressings/Pico de Gallo.md)
+
 [Salsa Verde](Sauces & Dressings/Salsa Verde.md)
 
 ## Snacks

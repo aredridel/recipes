@@ -114,7 +114,7 @@ Sauces
 Snacks
 ------
 
-[Chickpea and Onion Fritters](Chickpea and Onion Fritters.md).
+[Chickpea and Onion Fritters](Snacks/Chickpea and Onion Fritters.md).
 
 Breads
 ------

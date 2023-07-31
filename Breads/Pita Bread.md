@@ -13,7 +13,8 @@ Mix until ragged.
 
 Let rise until doubled.
 
-Punch down and cut into golf ball sized pieces. Let rest under a damp towel for 20-30 minutes.
+Punch down and cut into golf ball sized pieces. Let rest under a damp towel 
+for 20-30 minutes.
 
 Heat a griddle to 205 °C (400 °F).
 

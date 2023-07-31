@@ -60,6 +60,8 @@ for a restricted diet.
 
 [Deep Dish Savory Ricotta Pie](Mains/Deep-Dish-Savory-Ricotta-Pie.md)
 
+[Sopa de Fuba](Mains/Sopa-de-Fuba.md) Brasilian cornmeal soup! (With greens and kielbasa)
+
 Sides
 -----
 

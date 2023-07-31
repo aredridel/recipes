@@ -14,5 +14,6 @@
 - 3-6 scallions, minced
 - 1-2 teaspoons tamari or Bragg's Aminos
 
-- Mash the cooked beans. Ad the spices, juice, tahini, salt, vinegar, tamari, scallions and garlic.
+- Mash the cooked beans. Ad the spices, juice, tahini, salt, vinegar, tamari,
+  scallions and garlic.
 

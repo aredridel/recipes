@@ -52,8 +52,7 @@ sunflower seeds
 
 [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
 
-[Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with 
-green olives and lemon.md) tajine for European style cookware.
+[Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with green olives and lemon.md) tajine for European style cookware.
 
 [Lemon gravy chicken](Mains/Lemon Gravy Chicken.md) a simplified variation
 for a restricted diet.

@@ -65,6 +65,9 @@ for a restricted diet.
 Sides
 -----
 
+[Baba Ghanouj](Sides/Baba Ghanouj.md), and a [version with
+zucchini](Sides/Zucchini Ghanouj.md).
+
 [Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md)
 
 [Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md)

@@ -10,7 +10,7 @@
 - <sup>1</sup>⁄<sub>4</sub> cup tahini
 - 1 <sup>1</sup>⁄<sub>2</sub> teaspoons salt
 - 1-2 tablespoons vinegar
-- 3 medium cloves of grarlic, minced
+- 3 medium cloves of garlic, minced
 - 3-6 scallions, minced
 - 1-2 teaspoons tamari or Bragg's Aminos
 

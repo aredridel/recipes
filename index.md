@@ -116,6 +116,8 @@ Snacks
 
 [Chickpea and Onion Fritters](Snacks/Chickpea and Onion Fritters.md).
 
+[Pickled Beets](Snacks/Pickled Beets.md)
+
 Breads
 ------
 

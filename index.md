@@ -1,4 +1,5 @@
-# Recipes
+Recipes
+=======
 
 I'm putting recipes from my family cookbook here as well as writing down my
 own recipes with more specificity than I usually do.
@@ -51,8 +52,8 @@ sunflower seeds
 
 [Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
 
-[Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with green olives and lemon.md)
-tajine for European style cookware.
+[Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with 
+green olives and lemon.md) tajine for European style cookware.
 
 [Lemon gravy chicken](Mains/Lemon Gravy Chicken.md) a simplified variation
 for a restricted diet.
@@ -96,7 +97,8 @@ with no pretenses of actual connection to Greek culture.
 
 [Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md)
 
-## Sauces
+Sauces
+------
 
 [Cranberry Orange Sauce](Sauces & Dressings/Cranberry Orange Sauce.md)
 
@@ -104,11 +106,13 @@ with no pretenses of actual connection to Greek culture.
 
 [Salsa Verde](Sauces & Dressings/Salsa Verde.md)
 
-## Snacks
+Snacks
+------
 
 [Chickpea and Onion Fritters](Chickpea and Onion Fritters.md).
 
-## Breads
+Breads
+------
 
 [Empanada Dough](Breads/Empanada Dough.md)
 
@@ -160,7 +164,8 @@ mastiha liquor.
 
 [Tamarind-Peach Cocktail](Drinks/Tamarind-Peach Cocktail.md)
 
-## Desserts
+Desserts
+--------
 
 [Peach Custard Pie](Desserts/Peach Custard Pie.md)
 

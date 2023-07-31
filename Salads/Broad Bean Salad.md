@@ -1,7 +1,7 @@
 Broad Bean Salad
 ================
 
-A simple and unique salad, letting the large, unusual beans shine. WOuld
+A simple and unique salad, letting the large, unusual beans shine. Would
 also work well with green broad beans or favas.
 
 2 cans (400g each) broad beans, drained. (Frozen lima beans or canned fava

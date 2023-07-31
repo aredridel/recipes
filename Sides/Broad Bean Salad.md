@@ -1,7 +1,13 @@
 Broad Bean Salad
 ================
 
-2 cans (400g each) broad beans, drained
+A simple and unique salad, letting the large, unusual beans shine. WOuld
+also work well with green broad beans or favas.
+
+2 cans (400g each) broad beans, drained. (Frozen lima beans or canned fava
+beans are good choices too. You want a bean that's not got the fibrous
+texture of pinto, and something large and bite-sized makes this dish what it
+is.
 
 Juice of 1 lemon
 

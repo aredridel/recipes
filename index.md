@@ -123,7 +123,7 @@ Breads
 
 [Empanada Dough](Breads/Empanada Dough.md)
 
-[Irish Soda Bread](Breads/Irish Soda Bread.md)
+[Irish Soda Bread](Breads/Irish soda bread.md)
 
 [Pita Bread](Breads/Pita Bread.md)
 

@@ -123,6 +123,8 @@ Breads
 
 [Irish Soda Bread](Breads/Irish Soda Bread.md)
 
+[Pita Bread](Breads/Pita Bread.md)
+
 [Pizza Dough](Breads/Pizza-Dough.md)
 
 [Orange Rolls](Breads/Orange Rolls.md), move over Cinnamon Rolls.

@@ -74,6 +74,8 @@ Sides
 
 [Orange Hummus](Sides/Orange Hummus.md)
 
+[Kibbeh](Sides/Kibbeh.md)
+
 [Corn Waffles](Sides/Corn Waffles.md) — Gluten free
 
 Salads

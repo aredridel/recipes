@@ -11,8 +11,8 @@ is.
 
 Juice of 1 lemon
 
-1 head of mild garlic (if yours is not mild, microwave the cloves on half
-power for 30 seconds after peeling)
+1 head of mild garlic, minced (if yours is not mild, microwave the cloves on
+half power for 30 seconds after peeling but before chopping)
 
 Herbs: summer savory, dill, chives, chervil, oregano, thyme are all great.
 Fresh is best, dry is fine.

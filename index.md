@@ -35,8 +35,7 @@ well.
 In addition, I'm used to cooking for dietary restrictions — I'm married to
 someone with some health issues that diet helps, and my vegetarian
 upbringing means I'm used to substituting even for very central parts of
-recipes. You may be interested in the list of [ingredients I keep on
-hand](./Ingredients.md), as I think it both shows the philosophy I have with
+recipes. You may be interested in the list of [ingredients I keep on hand](./Ingredients.md), as I think it both shows the philosophy I have with
 cooking a bit and paints a picture of how I cook.
 
 Mains

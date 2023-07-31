@@ -1,7 +1,8 @@
 Crustimony Proseed Cake
 =======================
 
-This is my own creation, inspired by Winnie the Pooh. Eating it all is customary procedures.
+This is my own creation, inspired by Winnie the Pooh. Eating it all is
+customary procedures.
 
 - 1C white flour
 - 2/3 c whole wheat flour

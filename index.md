@@ -58,6 +58,8 @@ for a restricted diet.
 
 [Chicken, Mushroom and Rice Soup](Mains/Chicken-Mushroom-Rice-Soup.md)
 
+[Seaweed Soup](Mains/Seaweed Soup.md)
+
 [Deep Dish Savory Ricotta Pie](Mains/Deep-Dish-Savory-Ricotta-Pie.md)
 
 [Sopa de Fuba](Mains/Sopa-de-Fuba.md) Brasilian cornmeal soup! (With greens and kielbasa)

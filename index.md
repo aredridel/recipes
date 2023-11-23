@@ -117,6 +117,8 @@ Sauces
 
 [Salsa Verde](Sauces & Dressings/Salsa Verde.md)
 
+[Rhubarb Sauce](Sauces & Dressings/Rhubarb Sauce.md)
+
 Snacks
 ------
 

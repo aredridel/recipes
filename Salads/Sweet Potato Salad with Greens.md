@@ -1,7 +1,7 @@
 # Sweet Potato Salad with Greens
 
-- 500 g mixed greens: marshmallow, dandelion, lambsquarter, escarole, 
-  amaranth, spinach, bok choi, tatsoi, pak choi, mustard, or collard are 
+- 500 g mixed greens: marshmallow, dandelion, lambsquarter, escarole,
+  amaranth, spinach, bok choi, tatsoi, pak choi, mustard, or collard are
   all good options.
 - a bed of lettuces or other mild greens
 - 3 or 4 sweet potatoes

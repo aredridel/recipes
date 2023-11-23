@@ -27,9 +27,7 @@ Chop up the red pepper.
 
 Toast sesame seeds.
 
-Mix the steamed greens, sweet potatoes, tempeh, red pepper, onions together. Add mayo, sesame seeds and soy sauce to taste.
+Mix the steamed greens, sweet potatoes, tempeh, red pepper, onions together.
+Add mayo, sesame seeds and soy sauce to taste.
 
 Serve over a bed of uncooked mild greens.
-
-
-

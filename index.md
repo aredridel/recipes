@@ -79,6 +79,8 @@ Sides
 
 [Corn Waffles](Sides/Corn Waffles.md) — Gluten free
 
+[Mashed Turnips](Sides/Mashed Turnips.md)
+
 Salads
 ------
 

@@ -106,6 +106,8 @@ with no pretenses of actual connection to Greek culture.
 
 [Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md)
 
+[Roast Beet Salad](Salads/Roast Beet Salad.md)
+
 Sauces
 ------
 

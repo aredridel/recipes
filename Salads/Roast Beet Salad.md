@@ -15,4 +15,4 @@ Shred the cabbage.
 
 Toast the sunflower seeds.
 
-Mix everything and toss with a bit of balsamic vinegar.
+Combine and toss with a bit of balsamic vinegar.

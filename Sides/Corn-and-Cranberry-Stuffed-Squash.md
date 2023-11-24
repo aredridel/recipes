@@ -1,8 +1,10 @@
 # Corn and Cranberry Stuffed Squash
 
 This uses somewhat more North-Eastern North American flavors. It's got a fatty
-weight to it, and the bright flavor of the cranberries makes the dish come
-together in a fascinating way.
+weight to it, it could be a weekday meal on its own, and the bright flavor of
+the cranberries makes the dish come together in a great way. Corn also helps lean into the North American flavor palette.
+
+This would be excellent served with roasted jerusalem artichokes.
 
 - 2 delicata, acorn, small sugar pumpkin, kabocha, or kuri squash
 - 2 onions, chopped (or if you're so lucky: 100 g of fresh ramps. Green onions

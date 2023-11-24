@@ -83,6 +83,8 @@ Sides
 
 [Mashed Turnips](Sides/Mashed Turnips.md)
 
+[Corn and Cranberry Stuffed Squash](Sides/Corn-and-Cranberry-Stuffed-Squash.md)
+
 Salads
 ------
 

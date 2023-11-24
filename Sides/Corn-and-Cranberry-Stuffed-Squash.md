@@ -22,4 +22,3 @@ Fill the squash with the filling mixture.
 Cover the squash with foil, and bake until the squash is tender. Finish
 uncovered if you want a little bit more roasty flavor.
 
-

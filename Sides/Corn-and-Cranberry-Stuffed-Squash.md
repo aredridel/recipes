@@ -27,7 +27,7 @@ Let the dish become a cohesive mash, with no dry spots. It should be barely
 able to form a cohesive mound if pressed together. Stir in the sugar and salt
 to taste.
 
-Fill the squash with the filling mixture. 
+Fill the squash with the filling mixture.
 
 Cover the squash with foil, and bake until the squash is tender. Finish
 uncovered if you want a little bit more roasty flavor.

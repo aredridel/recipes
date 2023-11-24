@@ -1,11 +1,13 @@
 # Corn and Cranberry Stuffed Squash
 
-This uses somewhat more North-Eastern North American flavors, with a focus on 
+This uses somewhat more North-Eastern North American flavors. It's got a fatty
+weight to it, and the bright flavor of the cranberries makes the dish come
+together in a fascinating way.
 
 - 2 delicata, acorn, small sugar pumpkin, kabocha, or kuri squash
 - 2 onions, chopped (or if you're so lucky: 100 g of fresh ramps. Green onions
   or leek would also be an acceptable substitute.)
-- 100 g cranberries, fresh or frozen
+- 100 g cranberries, fresh or frozen, chopped
 - 100 g corn meal
 - 100 g beef, bison, deer, goat or lamb fat
 - 20 g brown sugar

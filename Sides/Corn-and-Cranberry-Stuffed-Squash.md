@@ -2,7 +2,8 @@
 
 This uses somewhat more North-Eastern North American flavors. It's got a fatty
 weight to it, it could be a weekday meal on its own, and the bright flavor of
-the cranberries makes the dish come together in a great way. Corn also helps lean into the North American flavor palette.
+the cranberries makes the dish come together in a great way. Corn also helps
+lean into the North American flavor palette.
 
 This would be excellent served with roasted jerusalem artichokes.
 

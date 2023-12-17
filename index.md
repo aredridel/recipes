@@ -125,6 +125,8 @@ Sauces
 
 [Rhubarb Sauce](Sauces & Dressings/Rhubarb Sauce.md)
 
+[Mesquite Ranch](Sauces & Dressings/Mesquite-Ranch.md)
+
 Snacks
 ------
 

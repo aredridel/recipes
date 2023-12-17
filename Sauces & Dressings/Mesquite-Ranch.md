@@ -10,8 +10,7 @@ A smoky version of the American Ranch salad dressing.
 - 5 g rosemary
 - 5 g thyme
 - 50 g tomato paste
-- 1-2 g mesquite smoke flavor (titrate to taste, there is no standard 
+- 1-2 g mesquite smoke flavor (titrate to taste, there is no standard
   formulation; mine is a dry powder on maltodextrin)
-
 
 Blend smooth and adjust to taste

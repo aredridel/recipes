@@ -24,4 +24,3 @@ true cinnamon, not cassia. Chill and serve.
 In an Instant Pot, the lowest 'slow cook' setting is 77 °C, which will cause
 the eggnog to curdle slightly and clump; however, after chilling, you can
 blend with a bit of milk and it will smooth right out.
-

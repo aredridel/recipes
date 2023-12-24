@@ -4,8 +4,8 @@ Eggnog
 My dad made this eggnog while I was growing up. I can't stand store-bought
 eggnog most of the time, and this is a very different sort of beverage,
 heavy on vanilla and nutmeg, a cream custard, not the cloying sweet yellow
-beverage that comes in a carton. It would be fine with rum in it but that's
-actually a detraction in my opinion.
+beverage that comes in a carton. It would be fine with rum in it but in my
+opinion, it makes it worse.
 
 It's best served in 200ml servings or so and best served cold, and thinned
 with milk to taste. I prefer it on the thicker side.

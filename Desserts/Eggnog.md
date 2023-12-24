@@ -13,7 +13,8 @@ It's best served in 200ml servings or so and best served cold, and thinned with 
 - 40ml vanilla extract
 - 2g clove
 
-Cook at, ideally, 72 °C for one hour. Remove the cinnamon stick unless it's true cinnamon, not cassia. Chill and serve.
+Cook at, ideally, 72 °C for one hour. Remove the cinnamon stick unless it's 
+true cinnamon, not cassia. Chill and serve.
 
 In an Instant Pot, the lowest 'slow cook' setting is 77 °C, which will cause
 the eggnog to curdle slightly and clump; however, after chilling, you can 

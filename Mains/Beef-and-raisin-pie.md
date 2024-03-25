@@ -17,7 +17,7 @@ Make a batch of [hot water pastry](../Breads/Empanada Dough.md), which is very f
 - a splash of broth
 - a bit of oil for the pan
 
-Brown the beef in the oil, then add the salt and spices. The beef will drop a fair amount of fat, and there will be moisture left over.
+Sautee the onions and garlic until transparent. Brown the beef in the oil, then add the salt and spices. The beef will drop a fair amount of fat, and there will be moisture left over.
 
 Add the spoonful of flour and coat everything, stirring so the flour absorbs the water and oil and emulsifies into a gravy. I often add a splash more broth and flour since with the amount of fat in the beef I buy, it makes more gravy than the moisture in the beef can provide. It should be mostly beef, with gravy lightly coating everything and no free liquid. Let it cool.
 

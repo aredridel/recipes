@@ -58,6 +58,8 @@ for a restricted diet.
 
 [Chicken, Mushroom and Rice Soup](Mains/Chicken-Mushroom-Rice-Soup.md)
 
+[Beef and Raisin Pie](Mains/Beef-and-raisin-pie.md)
+
 [Seaweed Soup](Mains/Seaweed Soup.md)
 
 [Deep Dish Savory Ricotta Pie](Mains/Deep-Dish-Savory-Ricotta-Pie.md)

@@ -1,5 +1,7 @@
 # Beef and raisin pie
 
+This is a full sized version of the [beef and raisin empanadas](Empanadas.md).
+
 Make a batch of [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving. Way easier than cold water pastry. Make one and a half recipes if you want a top crust.
 
 ## Beef and Raisin filling

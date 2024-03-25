@@ -1,12 +1,12 @@
-# Empanadas
+# Beef and raisin pie
 
-These empanadas use a [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving and can be re-rolled quite a few times without becoming too tough. Way easier than cold water pastry.
+Make a batch of [hot water pastry](../Breads/Empanada Dough.md), which is very forgiving. Way easier than cold water pastry. Make one and a half recipes if you want a top crust.
 
 ## Beef and Raisin filling
 
 Uses two recipes of dough.
 
-- 500g ground beef
+- 450g ground beef
 - 100g raisins and/or sultanas
 - 1-2g ground cloves
 - 1-2g ground nutmeg

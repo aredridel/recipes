@@ -58,6 +58,8 @@ for a restricted diet.
 
 [Chicken, Mushroom and Rice Soup](Mains/Chicken-Mushroom-Rice-Soup.md)
 
+[Italian Gumbo](Mains/Italian-Gumbo.md)
+
 [Beef and Raisin Pie](Mains/Beef-and-raisin-pie.md)
 
 [Seaweed Soup](Mains/Seaweed Soup.md)

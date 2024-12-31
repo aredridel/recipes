@@ -37,3 +37,6 @@ pasta. Cook until the pasta is done.
 I want to do a completely different version, perhaps with roast potatoes,
 okra, white sausages with lemon such as weisswurst or bockwurst. Perhaps
 heavy on schmaltz rather than duck fat. 
+
+I can also imagine an even stranger version: ham and shrimp, with mango
+instead of tomatoes. 

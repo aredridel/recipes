@@ -42,14 +42,14 @@ Mains
 -----
 
 [Lemon Beans and Rice](Mains/Lemon Beans and Rice.md), a rich take on ful
-madamus
+madamus. Vegetarian and optionally vegan.
 
-[Empanadas](Mains/Empanadas.md), tasty hand pies that keep well for days
+[Empanadas](Mains/Empanadas.md), tasty hand pies that keep well for days.
 
 [Sunburgers](Mains/Sunburgers.md), a vegan burger made from oats and
-sunflower seeds
+sunflower seeds.
 
-[Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md)
+[Red Lentil Dal with Coconut Milk](Red Lentil Coconut Dal.md). Vegan.
 
 [Moroccan chicken with green olives and lemon](Mains/Moroccan chicken with green olives and lemon.md) tajine for European style cookware.
 
@@ -64,47 +64,47 @@ for a restricted diet.
 
 [Beef and Raisin Pie](Mains/Beef-and-raisin-pie.md)
 
-[Seaweed Soup](Mains/Seaweed Soup.md)
+[Seaweed Soup](Mains/Seaweed Soup.md). Vegan.
 
-[Deep Dish Savory Ricotta Pie](Mains/Deep-Dish-Savory-Ricotta-Pie.md)
+[Deep Dish Savory Ricotta Pie](Mains/Deep-Dish-Savory-Ricotta-Pie.md). Vegetarian.
 
 [Sopa de Fuba](Mains/Sopa-de-Fuba.md) Brasilian cornmeal soup! (With greens and kielbasa)
 
 Sides
 -----
 
-[Baba Ghanouj](Sides/Baba Ghanouj.md), and a [version with zucchini](./Sides/Zucchini Ghanouj.md).
+[Baba Ghanouj](Sides/Baba Ghanouj.md), and a [version with zucchini](./Sides/Zucchini Ghanouj.md). Vegan.
 
-[Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md)
+[Cumin and Carrot Rice](Sides/Cumin and Carrot Rice.md). Vegan.
 
-[Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md)
+[Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md). Vegetarian.
 
-[Creamy Greens](Sides/Creamy-Greens.md)
+[Creamy Greens](Sides/Creamy-Greens.md). Vegetarian.
 
-[Hummus](Sides/Hummus.md)
+[Hummus](Sides/Hummus.md). Vegan.
 
-[Orange Hummus](Sides/Orange Hummus.md)
+[Orange Hummus](Sides/Orange Hummus.md). Vegan.
 
-[Kibbeh](Sides/Kibbeh.md)
+[Kibbeh](Sides/Kibbeh.md).
 
-[Corn Waffles](Sides/Corn Waffles.md) — Gluten free
+[Corn Waffles](Sides/Corn Waffles.md). Gluten free, Vegetarian.
 
-[Mashed Turnips](Sides/Mashed Turnips.md)
+[Mashed Turnips](Sides/Mashed Turnips.md). Vegetarian.
 
-[Corn and Cranberry Stuffed Squash](Sides/Corn-and-Cranberry-Stuffed-Squash.md)
+[Corn and Cranberry Stuffed Squash](Sides/Corn-and-Cranberry-Stuffed-Squash.md). Could be made vegetarian.
 
 Salads
 ------
 
-[Broad Bean Salad](Salads/Broad Bean Salad.md).
+[Broad Bean Salad](Salads/Broad Bean Salad.md). Vegan.
 
-[Creamy Italian Sausage Pasta Salad](Salads/Creamy Italian Sausage Pasta Salad.md)
+[Creamy Italian Sausage Pasta Salad](Salads/Creamy Italian Sausage Pasta Salad.md).
 
-[Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md)
+[Sweet Potato Chile Coconut Salad](Salads/Sweet Potato Chile Coconut Salad.md). Vegetarian, can be made vegan.
 
-[Sweet Potato Salad with Greens](Salads/Sweet Potato Salad with Greens.md)
+[Sweet Potato Salad with Greens](Salads/Sweet Potato Salad with Greens.md). Vegetarian, can be made vegan.
 
-[Lemon Feta Carrot Pasta Salad](Salads/Lemon Feta Carrot Pasta Salad.md)
+[Lemon Feta Carrot Pasta Salad](Salads/Lemon Feta Carrot Pasta Salad.md). Vegetarian.
 
 [Cool Rice Bowl with Radishes](Salads/Cool Rice Bowl With Radishes.md) with
 flavors of ginger and scallion
@@ -113,14 +113,14 @@ flavors of ginger and scallion
 pasta salad.
 
 [Egg-Not! Salad](Salads/Egg Not Salad.md) tastes like the good parts of a
-vegetarian society potluck.
+vegetarian society potluck. Vegan.
 
 [Greek Salad](Salads/Greek Salad.md), one of my family's recipes growing up,
-with no pretenses of actual connection to Greek culture.
+with no pretenses of actual connection to Greek culture. Vegetarian.
 
-[Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md)
+[Mediterranean Chickpea Salad](Salads/Mediterranean Chickpea Salad.md). Vegan.
 
-[Roast Beet Salad](Salads/Roast Beet Salad.md)
+[Roast Beet Salad](Salads/Roast Beet Salad.md). Vegan.
 
 Sauces
 ------

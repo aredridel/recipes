@@ -16,6 +16,6 @@ Dressing
 
 - 2 tablespoons olive oil
 - 2 tablespoons lemon juice
-- 1 clove of garlic, mibnced
+- 1 clove of garlic, minced
 - ground black pepper
 - 2 tablespoons crumbled feta

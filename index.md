@@ -79,6 +79,8 @@ Sides
 
 [Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md)
 
+[Creamy Greens](Sides/Creamy-Greens.md)
+
 [Hummus](Sides/Hummus.md)
 
 [Orange Hummus](Sides/Orange Hummus.md)

@@ -1,6 +1,6 @@
 # Lemon Gravy Chicken
 
-This is basically a simplification of [this tajine](Moroccan chicken with green olives and lemon.md), with the restricted diet that worked for my husband as he worked through allergies that popped up left right and center.
+This is basically a simplification of [this tajine](Moroccan%20chicken%20with%20green%20olives%20and%20lemon.md), with the restricted diet that worked for my husband as he worked through allergies that popped up left right and center.
 
 - 2 lemons, 1 cut in 8ths, 1 juiced.
 - 20ml olive oil

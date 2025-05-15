@@ -60,6 +60,8 @@ for a restricted diet.
 
 [Italian Gumbo](Mains/Italian-Gumbo.md)
 
+[Gumbo](Mains/Gumbo.md), the cajun sort.
+
 [Beef and Raisin Pie](Mains/Beef-and-raisin-pie.md)
 
 [Seaweed Soup](Mains/Seaweed Soup.md)

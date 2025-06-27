@@ -79,6 +79,8 @@ Sides
 
 [Cheesy Sauce and Cauliflower](Sides/Cheesy Sauce and Cauliflower.md). Vegetarian.
 
+[Cottage Cheese Fritters](Sides/Cottage Cheese Fritters.md). Vegetarian.
+
 [Creamy Greens](Sides/Creamy-Greens.md). Vegetarian.
 
 [Hummus](Sides/Hummus.md). Vegan.
